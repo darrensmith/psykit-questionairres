@@ -1,0 +1,17 @@
+l: shs
+t: range
+q: For each of the following statements and/or questions, please indicate the point on the scale that you feel is most appropriate in describing you
+- {min=1,max=7,left=not a very happy person,right=a very happy person} In general, I consider myself:
+- {min=1,max=7,left=less happy,right=more happy} Compared to most of my peers, I consider myself:
+- {min=1,max=7,left=not at all,right=a great deal} Some people are generally very happy. They enjoy life regardless of what is going on, getting the most out of everything. To what extent does this characterization describe you?
+- {min=1,max=7,left=not at all,right=a great deal,reverse} Some people are generally not very happy. Although they are not depressed, they never seem as happy as they might be. To what extend does this characterization describe you?
+
+l: score
+t: set
+- mean $shs
+
+l: feedback
+t: info
+q: Your SHS score on a scale from 1 to 7 is {$score}.<br><br>
+Check the PsyToolkit survey for a comparison to other people.<br>
+Link back to the PsyToolkit survey follows next.

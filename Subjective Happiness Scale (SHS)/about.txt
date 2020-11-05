@@ -1,0 +1,24 @@
+Introduction
+============
+
+Happiness and the term more commonly used in psychology, subjective wellbeing, are frequently studied in the field of psychology (including in positive psychology) and related applied areas, such as social care.
+
+There are a number of measures of subjective well-being (see also the children’s happiness scale here in the survey library).
+
+Interview with Ed Diener, the world authority on happiness and subjective well-being.
+Which countries have the happiest people? Another interview with Ed Diener
+In the above interview Ed Diener lists three kinds of happiness
+
+Life Satisfaction (check on the PsyToolkit survey library)
+
+Positive Feelings (enjoying life currently)
+
+Negativity (depression, anger, etc)
+
+The Subject Happiness Scale Lyumbomirsky & Lepper (1999) is a short questionnaire (4 7-item Likert questions). It is a highly cited measure. In 2015, it was cited nearly 500 times in other academic publications.
+
+
+References
+==========
+
+Lyubomirsky, S. & Lepper, H. S. (1999). A measure of subjective happines: Preliminary reliability and construct validation. Social indicators research, 46, 137-155.
