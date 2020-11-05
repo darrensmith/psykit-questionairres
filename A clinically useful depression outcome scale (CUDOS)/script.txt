@@ -1,0 +1,66 @@
+scale: howtrue
+- {score=0} not at all true (0 days)
+- {score=1} rarely true (1-2 days)
+- {score=2} sometimes true (3-4 days)
+- {score=3} often true (5-6 days)
+- {score=4} almost always true (every day)
+
+l: CUDOS_1_16
+t: scale howtrue
+o: random
+q: During the past week, including today...
+- I felt sad or depressed
+- I was not as interested in my usual activities
+- My appetite was poor and I didn't feel like eating
+- My appetite was much greater than usual
+- I had difficulty sleeping
+- I was sleeping too much
+- I felt very fidgety, making it difficult to sit still
+- I felt physically slowed down, like my body was stuck in mud
+- My energy level was low
+- I felt guilty
+- I thought I was a failure
+- I had problems concentrating
+- I had more difficulties making decisions than usual
+- I wished I was dead
+- I thought about killing myself
+- I thought that the future looked hopeless
+
+l: CUDOS_17
+t: radio
+q: Overall, how much have symptoms of depression interfered with or
+ caused difficulties in your life during the past week?
+- {score=0} not at all
+- {score=1} a little bit
+- {score=2} a moderate amount
+- {score=3} quite a bit
+- {score=4} extremely
+
+l: CUDOS_18
+t: radio
+q: How would you rate your overall quality of life during the past week?
+- {score=0} very good, my life could hardly be better
+- {score=1} pretty good, most things are going well
+- {score=2} the good and bad parts are about equal
+- {score=3} pretty bad, most things are going poorly
+- {score=4} very bad, my life could hardly be worse
+
+l: score
+t: set
+- sum $CUDOS_*
+
+l: depressed
+t: info
+q: Your score is {$score} on the Clinically Useful Depression Outcome Scale (CUDOS):<br>
+You can use the table below to interprete this score.<br>
+<ul>
+<li>0-10 = non-depressed
+<li>11-20 = minimal depression
+<li>21-30 = mild depression
+<li>31-45 = moderate depression
+<li>46-72 = severe depression
+</ul><br>
+If you are concerned about your mental health, make sure you seek help,<br>
+for example from your doctor.<br>
+If you are a student, you can contact your student services or mentor.<br>
+Almost all schools and universities have a place where you can ask for help.<br>

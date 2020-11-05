@@ -1,0 +1,28 @@
+Introduction
+============
+
+There are different ways to capture the personality traits that differ most between people. The BIG5 approach is one of them. The Zuckerman-Kuhlman Personality Questionnaire follows a different approach (click here for a Wikipedia description of the differences between the approaches). See also the Zuckerman et al. paper, 1993 for a comparison of the different models of personality.
+
+The shortened version of the ZKPQ (50 items) has been validated (Aluja et al., 2006), and you can find the original article and further information here.
+
+Unlike the Big 5 questionnaires, which uses a Likert scale, the ZKPQ asks participants to score items as True or False.
+The ZKPQ distinguishes the following 5 personality factors (abbreviation in parentheses):
+
+Impulsive Sensation Seeking (ImpSS)
+
+Neuroticism-Anxiety (N-Anx)
+
+Aggression-Hostility (Agg-Host)
+
+Activity (Act)
+
+Sociability (Sy)
+
+
+
+References
+==========
+
+Aluja, A., Rossier, J., García, L. F., Angleitner, A., Kuhlman, M., & Zuckerman, M. (2006). A cros-cultural shortened form of the ZKPQ (ZKPQ-50-c) adapted to English, French, German, and Spanish languages. Personality and Individual Differences, 41, 619-628.
+
+Zuckerman, M., Kuhlman, D. M., Teta, P., Joireman, J., & Kraft, M. (1993). A comparison of three structural models of personality: the big three, the big five, and the alternative five. Journal of Personality and Social Psychology, 65, 757-768.

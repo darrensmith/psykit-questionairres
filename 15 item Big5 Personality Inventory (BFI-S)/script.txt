@@ -1,0 +1,65 @@
+scale: agree
+- strongly disagree
+- disagree
+- somewhat disagree
+- neither agree nor disagree
+- somewhat agree
+- agree
+- strongly agree
+
+l: bfi
+t: scale agree
+o: width 20%
+q: Below you see a number of statements, each of which<br>
+starts with "I see myself as someone who".<br>
+For each statement, indicate how much you agree with this.<br>
+<br>
+<b>I see myself as someone who ...</b>
+- worries a lot
+- gets nervous easily
+- {reverse} remains calm in tense situations
+- is talkative
+- is outgoing, sociable
+- {reverse} is reserved
+- is original, comes up with new ideas
+- values artistic, aesthetic experiences
+- has an active imagination
+- {reverse} is sometimes rude to others
+- has a forgiving nature
+- is considerate and kind to almost everyone
+- does a thorough job
+- {reverse} tends to be lazy
+- does things efficiently
+
+l: openness
+t: set
+- mean $bfi.7 $bfi.8 $bfi.9
+
+l: conscientiousness
+t: set
+- mean $bfi.13 $bfi.14 $bfi.15
+
+l: extroversion
+t: set
+- mean $bfi.4 $bfi.5 $bfi.6
+
+l: agreeableness
+t: set
+- mean $bfi.10 $bfi.11 $bfi.12
+
+l: neuroticism
+t: set
+- mean $bfi.1 $bfi.2 $bfi.3
+
+l: feedback
+t: radio
+q: Your BFI-S scores are as follows (each score can be between 1 and 7):<br>
+Write these numbers down for later use.<br>
+<ul>
+<li><b>O</b>penness: {$openness}
+<li><b>C</b>onscientiousness: {$conscientiousness}
+<li><b>E</b>xtroversion: {$extroversion}
+<li><b>A</b>greeableness: {$agreeableness}
+<li><b>N</b>euroticism: {$neuroticism}
+</ul>
+- Okay, I understand

@@ -1,0 +1,27 @@
+Introduction
+============
+
+Mathematics anxiety is a negative emotion associated to mathematics related activities, such as mathematics homework. Mathematics anxiety is related to poorer mathematics performance.
+
+The subject mathematics anxiety has been studied since the work of Richardson and Suinn in the early 1970s. There is still a growing number of publications about the subject.
+
+There are many self-help videos about mathematics anxiety on YouTube. Click here to see a list of them.
+The Abbreviated Math Anxiety Scale by Hopko and colleagues, 2003 is a popular and psychometrically validated measure of mathematics anxiety.
+
+Interesting fact: In American English, people say "math" and in British English people say "maths". A way around this is just using the word "mathematics", as has been chosen for the PsyToolkit demonstration.
+The study by Hopko and colleagues, 2003 studied more than a thousand undergraduate students. In the primary sample (N=206), the average scores were as follows (data from p.180 of the Hopko et al. paper):
+
+Group	Score (possible values 9 to 45)
+All     21.1
+Men     19.5
+Women   21.9
+
+In this study, women scored higher than men. That is a well known effect also found in other studies of mathematics anxiety.
+
+
+References
+==========
+
+D.R. Hopko, R. Mahadevan, R.L. Bare, & Melassa K. Hunt. (2003). The Abbreviated Math Anxiety Scale (AMAS): Construction, Validity, and Reliability. Assessment, 10, 178-182.
+
+F.C. Richardson and R.M. Suinn (1972). Mathematics anxiety rating scale - psychometric data. Journal of Counselling Psychology, 6, 551.

@@ -1,0 +1,41 @@
+scale: howmuch
+- {score=0} not at all
+- {score=1} a little
+- {score=2} quite a bit
+- {score=3} a lot
+
+l: cia
+t: scale howmuch
+o: width 50%
+q: Over the <b>past 28 days</b>, to what extent have your<br>
+... eating habits<br>
+... exercising<br>
+... or your feelings about your eating, shape or weight .....<br>
+- made it difficult to concentrate?
+- made you feel critical of yourself?
+- stopped you going out with others?
+- affected your work performance (if applicable)?
+- made you forgetful?
+- affected your ability to make everyday decisions?
+- interfered with meals with family or friends?
+- made you upset?
+- made you feel ashamed of yourself?
+- made it difficult to eat out with others?
+- made you feel guilty?
+- interfered with you doing things you used to enjoy?
+- made you absent-minded?
+- made you feel a failure?
+- interfered with your relationship with others?
+- made you worry?
+
+l: score
+t: set
+- sum $cia
+
+l: feedback
+t: info
+q: Your score on the Clinical Impairment Assessment Questionnaire is {$score} points.<br>
+A score of 16 or higher might indicate that you are suffering from an eating disorder.<br>
+Of course, people with a lower score might also suffer from an eating disorder.<br>
+This test is in now way a diagnostic test, just a PsyToolkit demonstration!<br>
+If you are concerned, go back to the PsyToolkit webpage for help links.<br>

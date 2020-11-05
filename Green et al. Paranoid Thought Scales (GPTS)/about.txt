@@ -1,0 +1,30 @@
+Introduction
+Paranoia is a way of irrational thinking in which a person thinks that others are trying to "get him" or her. Because of this a person suffering from paranoia might make false accusations against other people. Paranoia is a common symptom of psychosis, which is a psychiatric term for a person’s irrational interpretation of reality.
+
+Daniel Freeman’s 2007 review article about paranoia gives an excellent overview of the topic.
+Ten to fifteen percent of the population experiences paranoid thoughts regularly (Freeman, 2007).
+
+The Green et al. Paranoid Thought Scales (GPTS) measures 2 dimensions of paranoid thinking:
+
+Ideas of social reference: "The person holds the belief that some neutral event has special personal significance/refers to them personally by means of observation or communication by another." (Startup & Startup, 2005). For example "I often heard people referring to me"
+
+Ideas of social persecution: For example "People have intended me harm"
+
+The mean sample scores are from Table 3 of the Green et al. (2008) paper. The averages are based on 353 people without known mental health issues and 50 people with persecutory delusions.
+
+Did you know that there is a literary genre called paranoid fiction? Read more about it here.
+Score							Non-clinical samle		Clinical Sample		Possible range
+GPTS Ideas of social reference	26.8					46.4				16-80
+GPTS Ideas of persecution 		22.1					55.4				16-80
+GPTS Total						48.8					101.9				32-160
+
+
+
+References
+==========
+ 
+Green, C. E. L., Freeman, D., Kuipers, E., Bebbington, P., Fowler, D., Dunn, G., & Garety, P. A. (2008). Measuring ideas of persecution and social reference: the Green et al. Paranoid Thought Scales (GPTS). Psychological medicine, 38, 101-111.
+
+Freeman, D. (2007). Suspicious minds : the psychology of persecutory delusions. Clinical Psychology Review, 27, 425-457.
+
+Startup, M. & Startup, S. (2005). On two kinds of delusions of reference. Psychiatry Research 137, 87-92.

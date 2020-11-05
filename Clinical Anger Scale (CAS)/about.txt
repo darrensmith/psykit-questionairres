@@ -1,0 +1,32 @@
+Introduction
+Anger is a normal human emotion. Certain people may show clinical anger which is a chromic and pervasive anger. The difference between anger and clinical anger maybe comparible to the difference between feeling down and clinical depression. In other words, when an otherwise common emotion becomes long lasting, it becomes a clinical problem.
+
+Professor Snell developed the Clinical Anger Scale to measure this (Snell et al., 1995).
+
+The CAS is not meant as a formal diagnosis of clinical anger.
+A good overview article about clinical anger is the paper Understanding Clinical Anger and Violence by xrefs:refs[Gardner and Moore (2008)], from which I quote the following:
+
+Although, to many, anger may seem like a maladaptive response to inter- personal distress, the emotion is actually intended to serve an adaptive function, as it has as its most basic purpose the preparation of human beings to respond to real threats in the environment (Kemper, 1987). However, when generalized to contexts beyond those in which it is likely to be useful and adaptive, this otherwise normal emotion can lead to chronically height- ened arousal and is associated with dysfunctional and problematic behav- ior. For many individuals, heightened intensity, frequency, and duration of anger, which we have defined as “clinical anger,” are precursors to a vari- ety of interpersonal, health, occupational, and legal difficulties (Del Vecchio & O’Leary, 2004; Kassinove & Sukhodolsky, 1995).
+
+Although anger is stereotypically more associated with men than with women, Snell et al. (1995) found no evidence that men and women differ in terms of the syndrome of clinical anger (p.222).
+
+
+Usage
+=====
+
+Snell (2007) writes:
+
+In clinical settings, the CAS could provide information helpful in understanding angry clients, the planning of treatment, and the assessment of therapeutic progress. Client scores on the CAS could, for example, be compared with non-clinical groups (or against CAS norms, once they are established). By being administered at several points in time, the Clinical Anger Scale may also provide valuable information about clinical status and treatment response. Moreover, in non-clinical settings, the CAS may prove useful in identifying individuals who have "clinical" levels of anger or those who at risk for developing clinical anger. Additionally, the CAS can be easily administered in mental health, prison, educational, and other types of settings to screen for anger symptomatology. In this sense, the CAS may prove to be useful to employ in applied settings where the measurement of clinical anger is deemed necessary and helpful (Sharkin, 1988).
+
+Scoring and interpretation
+The CAS has 21 items with 4 choices each (which are scored 0,1,2,3). The CAS score is simply the sum of the item scores. Thus, scores on the CAS can range from 0 to 63. A higher score means that the participant has more anger symptoms.
+
+In student samples, the average CAS lies around 10 points.
+
+
+References
+==========
+
+Snell, W. E., Jr., Gum, S., Shuck, R. L., Mosley, J. A., & Kite, T. L. (1995). The clinical anger scale: Preliminary reliability and validity. Journal of Clinical Psychology, 51(2), 215-226.
+
+Snell, W. E., Jr. (2002). Chapter 1: Clinical anger: Construct, measurement, reliability, and validity. In W. E. Snell, Jr. (Ed.), Progress in the study of physical and psychological health. Cape Girardeau, MO: Snell Publications. WEB: http://cstl-cla.semo.edu/snell/books/health/health.htm.

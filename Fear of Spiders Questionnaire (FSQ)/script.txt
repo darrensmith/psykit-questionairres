@@ -1,0 +1,30 @@
+l: fsq
+t: range
+q: Choose an answer on the scale from "not at all" to "very much" for each of the 18 items
+- {min=1,max=7,left=not at all,right=very much,start=4} If I came across a spider now, I would get help from someone else to remove it.
+- {min=1,max=7,left=not at all,right=very much,start=4} Currently, I am sometimes on the look out for spiders.
+- {min=1,max=7,left=not at all,right=very much,start=4} If I saw a spider now, I would think it will harm me.
+- {min=1,max=7,left=not at all,right=very much,start=4} I now think a lot about spiders.
+- {min=1,max=7,left=not at all,right=very much,start=4} I would be somewhat afraid to enter a room now, where I have seen a spider before.
+- {min=1,max=7,left=not at all,right=very much,start=4} I now would do anything to try to avoid a spider.
+- {min=1,max=7,left=not at all,right=very much,start=4} Currently, I sometimes think about getting bit by a spider.
+- {min=1,max=7,left=not at all,right=very much,start=4} If I encountered a spider now, I wouldn't be able to deal effectively with it.
+- {min=1,max=7,left=not at all,right=very much,start=4} If I encountered a spider now, it would take a long time to get it out of my mind.
+- {min=1,max=7,left=not at all,right=very much,start=4} If I came across a spider now, I would leave the room.
+- {min=1,max=7,left=not at all,right=very much,start=4} If I saw a spider now, I would think it will try to jump on me.
+- {min=1,max=7,left=not at all,right=very much,start=4} If I saw a spider now, 1 would ask someone else to kill it.
+- {min=1,max=7,left=not at all,right=very much,start=4} If I encountered a spider now, I would have images of it trying to get me.
+- {min=1,max=7,left=not at all,right=very much,start=4} If I saw a spider now I would be afraid of it.
+- {min=1,max=7,left=not at all,right=very much,start=4} If I saw a spider now, I would feel very panicky.
+- {min=1,max=7,left=not at all,right=very much,start=4} Spiders are one of my worst fears.
+- {min=1,max=7,left=not at all,right=very much,start=4} I would feel very nervous if I saw a spider now.
+- {min=1,max=7,left=not at all,right=very much,start=4} If I saw a spider now I would probably break out in a sweat and my heart would beat faster.
+
+l: fsqscore
+t: set
+- sum $fsq
+
+l: feedback
+t: info
+q: Your score on the Fear of Spiders Questionnaire is {$fsqscore}.<br>
+The score ranges between 18 and 126 points.

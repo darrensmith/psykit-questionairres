@@ -1,0 +1,24 @@
+Introduction
+Hypoglycemia (or low blood sugar) is a condition in which a person has a low level of blood glucose. Glucose is an essential energy provider and blood sugar needs to stay within a specific range in order to function normally. Hypoglycemia can have a direct profound effect on someone’s mental state, both in terms of mood and cognitive performance. The HSC-7 checks for these effects.
+
+The HSC-7 checks 4 symptoms of neuroglycopenia (clumsy, confused, difficulty in speaking, and weakness) and 3 autonomic symptoms (heart beating, shivering, sweating).
+
+If you are concerned about this topic, please make sure that you talk to your doctor. This website can under no circumstance replace medical advise and is not intended as such.
+Hypoglycemia can occur in a variety of medical conditions, not only diabetes. In the paper by Barry and colleages, 2011, the condition was studied in women with polycystic ovary syndrome (PCOS), which affects up to 10% of women.
+
+A diet with a low glycemic index might alleviate hypoglycemia in women with PCOS.
+Of course, hypoglycemia can occur under different conditions as well. Read this website about why it may occur.
+
+The HSC-7 was tested with 4 groups of participants (total 462).
+
+Group						HSC-7 score
+Women with PCOS				2.6
+Women possibly with PCOS	2.5
+Healthy Women 				2.1
+Healthy men 				2.1
+
+
+References
+==========
+ 
+Barry, J.A., Bouloux, P. & Hardiman, P.J. (2011). The impact of eating behavior on psychological symptoms typical of reactive hypoglycemia. A pilot study comparing women with polycystic ovary syndrome to controls. Appetite, 57, 73-76.

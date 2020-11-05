@@ -1,0 +1,42 @@
+scale: frequency
+- {score=0} not at all
+- {score=1} several days
+- {score=2} more than half the days
+- {score=3} nearly every day
+
+l: gad
+t: scale frequency
+o: width 50%
+q: Over the last 2 weeks, how often have you been bothered by the following problems?
+- Feeling nervous, anxious or on edge
+- Not being able to stop or control worrying
+- Worrying too much about different things
+- Trouble relaxing
+- Being so restless that it is hard to sit still
+- Becoming easily annoyed or irritable
+- Feeling afraid as if something awful might happen
+
+l:
+t: jump
+- if $gad == 0 then goto score
+
+l: difficulty
+t: radio
+q: How difficult have these problems made it for you to do your work, take care of things at home, or get along with other people?
+- Not difficult at all
+- Somewhat difficult
+- Very difficult
+- Extremely difficult
+
+l: score
+t: set
+- sum $gad
+
+l: feedback
+t: info
+q: Your score on the GAD-7 is {$score}<br>
+If your score is 10 points or higher, you might suffer from generalized anxiety disorder.<br>
+If you are concerned about this, please get back to the PsyToolkit survey library, where<br>
+you can find helpful links.<br>
+Please note that this is purely a technical demonstration.<br>
+The scores on this website cannot replace clinical advice.<br>

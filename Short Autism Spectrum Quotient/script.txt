@@ -1,0 +1,28 @@
+scale: agreesaq
+- {score=1} Definitely agree
+- {score=1} Slightly agree
+- {score=0} Slightly disagree
+- {score=0} Definitely disagree
+
+l: saq
+t: scale agreesaq
+q: Please tick one option per question
+- I often notice small sounds when others do not
+- {reverse} I usually concentrate more on the whole picture, rather than the small details
+- {reverse} I find it easy to do more than one thing at once
+- {reverse} If there is an interruption, I can switch back to what I was doing very quickly
+- {reverse} I find it easy to ‘read between the lines’ when someone is talking to me
+- {reverse} I know how to tell if someone listening to me is getting bored
+- When I’m reading a story I find it difficult to work out the characters’ intentions
+- I like to collect information about categories of things (e.g. types of car, types of bird, types of train, types of plant etc)
+- {reverse} I find it easy to work out what someone is thinking or feeling just by looking at their face
+- I find it difficult to work out people’s intentions
+
+l: saq_score
+t: set
+- sum $saq
+
+l: feedback
+t: info
+q: Your score is {$saq_score} points.
+The scale states that a score of 6 points or more means that you may consider specialist diagnostic assessment.

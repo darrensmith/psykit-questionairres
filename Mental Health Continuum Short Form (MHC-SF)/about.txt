@@ -1,0 +1,58 @@
+Introduction
+============
+
+The MHC-SF is a scale measureing emotional wellbeing. The MHC-SF has been translated in various languages and has been evaluated psychometrically.
+
+The scale is relatively short, with 14 items. The scale was developed by Corey L. Keyes.
+
+You really should see Professor Keyes' talk about mental illness and American healthcare on TEDx (via YouTube). Link here. He calls the talk probably the most depressing talk of happiness talks. It is quite interesting to watch and it really explains the ideas behind the MHC-SF.
+Each of the 14 items on the MHC-SF can be scored between 0 and 5, which means that the total score on the scale can range from 0 to 70 points. Higher scores indicate a higher level of emotional wellbeing. But it is not just the overall score that matters, but also how you can determine if someone is flourishing, languishing, or being something in between.
+
+You can find a brief description of the scale here.
+The MHC-SF contains 3 dimensions of well-being (the individual items are listed below in the scale itself):
+
+Hedonic — emotional well-being
+
+happy (Item 1)
+
+interested in life (Item 2)
+
+satisfied with life (Item 3)
+
+Eudaimonic — social well-being
+
+Social Contribution (Item 4)
+
+Social Integration (Item 5)
+
+Social Actualization (i.e., Social Growth) (Item 6)
+
+Social Acceptance (Item 7)
+
+Social Coherence (i.e., Social Interest) (Item 8)
+
+Eudaimonic — psychological well-being
+
+Self Acceptance (Item 9)
+
+Environmental Mastery (Item 10)
+
+Positive Relations with Others (Item 11)
+
+Personal Growth (Item 12)
+
+Autonomy (Item 13)
+
+Purpose in Life (Item 14)
+
+Accoring to Keyes (e.g., 2006, 2008), people can be classified as flourising or languishing in regard to emotional wellbeing. In order to be flouring, "individuals must report that they experience ‘everyday’ or ‘almost everyday’ at least seven of the symptoms, where one of the symptoms is from the hedonic (i.e., EWB) cluster (i.e., happy, interested in life, or satisfied)." (Kelley, 2008, p. 187). In order to be "languishing", "individuals must report that they ‘never’ or ‘once or twice’ experienced at least seven of the symptoms, where one of the symptoms is from the hedonic (i.e., EWB) cluster (i.e., happy, interested in life, or satisfied)." (ibid).
+
+Kelley (2008, p. 187) states that "Individuals who do not fit the criteria for flourishing or languishing are categorized as moderately mentally healthy. Based on these diagnostic criteria, then, the data reveal that 12.2% of the sample is languishing, 67.8% were moderately mentally healthy and 20% were fl ourishing. These estimates are similar to those found by Keyes (2005a) using the long form of the mental health assessment in a national probability sample of US adults between the ages of 25 and 74, where 18% were flourishing, about 17% were languishing and 65% were moderately mentally healthy."
+
+
+References
+==========
+
+Keyes, C.L.M. (2006). Mental health in adolescence: Is America’s youth flourishing? American Journal of Orthopsychiatry, 76, 395–402.
+
+Keyes, C. L. M., Wissing, M., Potgieter, J. P., Temane, M., Kruger, A., & van Rooy, S. (2008). Evaluation of the mental health continuum-short form (MHC-SF) in setswana-speaking south africans. Clinical Psychology and Psychotherapy, 15(3), 181-192.

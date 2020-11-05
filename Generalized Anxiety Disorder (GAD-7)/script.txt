@@ -1,0 +1,33 @@
+Introduction
+============
+
+Generalized anxiety disorder is a very common mental problem.
+
+According to this website, these are the symptoms:
+
+Constant worries running through your head
+
+Feeling like your anxiety is uncontrollable; there is nothing you can do to stop the worrying
+
+Intrusive thoughts about things that make you anxious; you try to avoid thinking about them, but you can’t
+
+An inability to tolerate uncertainty; you need to know what’s going to happen in the future
+
+A pervasive feeling of apprehension or dread
+
+Click here or here to find tips about where to find help with anxiety.
+The GAD-7 is a short test that checks symptoms and can be used assess the severity of generalized anxiety.
+
+This test is in no way a replacement of clinical diagnosis of generalized anxiety disorder.
+The possible scores on the GAD-7 run from 0 to 21.
+
+In the study by Spitzer et al. (2006), more than 2000 patients in primary care settings participated. Of the patients who were known to suffer from generalized anxiety disorder, the average GAD-7 score was 14.4. Of the patients that were known not to suffer from the disorder, the GAD-7 score was 4.9.
+
+According to the paper, people with a score of 10 or greater might suffer from generlized anxiety disorder.
+Women suffer considerably more from generalized anxiety disorder than men.
+
+
+References
+==========
+
+Spitzer, R. L., Kroenke, K., Williams, J. B. W., & Lowe, B. (2006). A brief measure for assessing generalized anxiety disorder - The GAD-7. Archives of Internal Medicine, 166, 1092-1097.

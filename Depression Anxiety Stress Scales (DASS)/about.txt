@@ -1,0 +1,12 @@
+Introduction
+============
+
+Depression, anxiety, and stress are all negative feelings. The University of New South Wales in Australia developed a questionnaire to measure all three of them using one questionnaire, known as DASS.
+
+The DASS has 42 items. The DASS-21 has 21 items if you are under time pressure. The DASS-21 scores are multiplied by two so that you can compare the DASS-21 score with the normal DASS. You can find the DASS-21 in the PsyToolkit survey library by clicking here.
+
+
+References
+==========
+
+Lovibond, S.H. & Lovibond, P.F. (1995). Manual for the Depression Anxiety & Stress Scales. (2 Ed.)Sydney: Psychology Foundation.

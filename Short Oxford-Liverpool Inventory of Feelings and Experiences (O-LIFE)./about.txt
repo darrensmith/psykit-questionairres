@@ -1,0 +1,58 @@
+Introduction
+============
+
+Schizophrenia is a mental disorder with five categories of symptoms (for a review see van Os & Kapur, 2009):
+
+Psychosis (including hallicunations and delusions)
+
+Changes in drive and motivation
+
+Cognitive changes (e.g., memory difficulties)
+
+Depressive symptoms
+
+Manic symptoms
+
+People with schizophrenia may suffer from "hearing voices" (which are not really there). People might think others try to control their thoughts.
+Interesting BigThink short video introducing schizophrenia. Also check this interesting schizophrenia simulator video.
+Schizophrenia is diagnosed in 0.3 to 0.66% of the population (i.e., lifetime prevalence). It is typically diagnosed in the late teens or early adulthood and occurs more frequently in men than women.
+Important for the O-LIFE scale is that various researchers have proposed that these symptoms occur in the normal/healthy population as well. The occurance of such symptoms is known as schizotypy, and the O-LIFE questionnaire measures such symptoms. The idea is that everybody can have some of these symptoms without having a mental disorder.
+
+Nevertheless, psychological research shows that there are relations between schizotypy scores in the normal population and certain psychological problems, such as face recognition (Hills, Eaton, Pake, 2016).
+
+There is a shorter yet reliable version of the O-LIFE questionnaire with 43 yes/no questions which is presented below.
+
+Details about the short O-LIFE scales
+The short O-LIFE has 4 subscales.
+
+The descriptions of the 4 scales below are literally copied from the Mason paper (2005), p.295.
+Unusual Experiences — describing perceptual aberrations, magical thinking, and hallucinations. It is phenomenologically related to the positive symptoms of psychosis, and measures a trait often termed positive schizotypy.
+
+Cognitive Disorganisation — items that tap aspects of poor attention and concentration, as well as poor decision-making and social anxiety. It can be seen to reflect thought disorder and other disorganised aspects of psychosis.
+
+Introvertive Anhedonia — items that describe a lack of enjoyment from social and physical sources of pleasure, as well as avoidance of intimacy. It can be seen to reflect weakened forms of negative symptoms, so-called negative schizotypy, or alternatively the schizoid temperament.
+
+Impulsive Nonconformity — items describing impulsive, anti-social, and eccentric forms of behaviour, often suggesting a lack of self-control.
+
+The table below shows the scale and the average scores for men and women in a test with hundreds of volunteer twins (average age 47). The table below is based on the paper by Mason and colleagues (2005), page 295, Table 2.
+
+Subscale					Possible score range	Men		Women
+Unusual Experiences 		0-12 points				3.17 	3.39
+Cognitive Disorganisation  	0-11 points				4.28	4.44
+Introvertive Anhedonia  	0-10 points 			2.80	2.40
+Impulsive Nonconformity  	0-10 points				2.70	2.59
+
+
+
+References
+==========
+
+The test itself:
+
+Mason, O., Linney, Y., & Claridge, G. (2005). Short scales for measuring schizotypy. Schizophrenia Research, 78, 293-296.
+
+Further reading:
+
+van Os, J. & Kapur, S. (2009). Schizophrenia. The Lancet, 374, 635-645.
+
+Hills, P.J., Eaton, E., & Pake, J.M. (2016). Correlations between psychometric schizotypy, scan path length, fixations on the eyes and face recognition. The Quarterly Journal of Experimental Psychology, 69, 611-625.

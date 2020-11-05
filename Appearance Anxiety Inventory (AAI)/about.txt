@@ -1,0 +1,19 @@
+Introduction
+============
+
+Body Dysmorphic Disorder (BDD) is a psychological disorder in which people suffer from a distorted self body image.
+
+In this Simpson’s episode the topic of appearance anxiety is being discussed in a accessible way, showing that the topic has reached a high level of public awareness.
+There are a number of similar scales to measure appearance anxiety. The AAI scale (Veale et al., 2014) has been validated with people suffering from the BDD.
+
+In the paper it says that the frequency 5-point Likert scale "ranging from 0 for not at all to 4 for all the time." In this PsyToolkit implementation, the intermediate steps have been named as well (it is unclear if they did this in the original study). The choices between not at all and all the time are rarely, sometimes, and often. Of course, you can change this.
+In the paper, they did not seem to randomize the order of the items, but you could, if you wish, by adding the line o: random to the scale question item (labeled aai).
+The score on the scale runs from 0 to 40.
+
+In the paper, they compared people with BDD (n=139) and a sample of people with a high level of concern about body image (n=108). The median score in the BDD group was 27.0 and in the community sample of people with body image concerns was 13.0.
+
+
+References
+==========
+
+Veale, D., Eshkevaria, E., Kanakama, N., Ellisona, N., Costa, A., and Werner, T. (2014). The Appearance Anxiety Inventory: Validation of a Process Measure in the Treatment of Body Dysmorphic Disorder. Behavioural and Cognitive Psychotherapy, 42, 605-616. Link to publisher

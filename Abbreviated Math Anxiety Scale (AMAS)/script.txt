@@ -1,0 +1,29 @@
+scale: amas_scale
+- Low Anxiety
+- Some Anxiety
+- Moderate Anxiety
+- Quite a bit of Anxiety
+- High Anxiety
+
+l: amas
+t: scale amas_scale
+o: width 50%
+q: Please rate each item below in terms of how anxious you would feel during the event specified.<br>
+- Having to use the tables in the back of a mathematics book.
+- Thinking about an upcoming mathematics test one day before.
+- Watching a teacher work an algebraic equation on the blackboard.
+- Taking an examination in a mathematics course.
+- Being given a homework assignment of many difficult problems which is due the next class meeting.
+- Listening to a lecture in mathematics class.
+- Listening to another student explain a mathematics formula.
+- Being given a “pop” quiz in a mathematics class.
+- Starting a new chapter in a mathematics book.
+
+l: amas_score
+t: set
+- sum $amas
+
+l: amas_feedback
+t: info
+q: Scores on the Abbreviated Math Anxiety Scale (AMAS) can range from 9 to 45.<br>
+Your score on the AMAS is {$amas_score}.

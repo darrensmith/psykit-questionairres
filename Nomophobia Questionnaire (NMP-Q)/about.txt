@@ -1,0 +1,21 @@
+Introduction
+============
+
+Nomophobia is an fear or phobia for being without one’s cell phone (also known as mobile phone or smart phone).
+
+The word is based on some letters from the phrase NO MObile phone PHOBIA.
+
+The NMP-Q has been much in the news, for example here on CNN.
+The NMP-Q has 20 questions, each scored on a 7-point Likert scale. The total score on the NMP-Q is 20 at its lowest (20 * 1) or 140 (7 * 20) at its highest.
+
+Score	Interpretation
+20		Absence of nomophobia
+21-59	Mild level of nomophobia
+60-99	Moderate level of nomophobia
+100-140 Severe nomophobia
+
+
+References
+==========
+
+Yildirim, C. & Correia, A. (2015). Exploring the dimensions of nomophobia: Development and validation of a self-reported questionnaire. Computers in Human Behavior, 49, 130-137.

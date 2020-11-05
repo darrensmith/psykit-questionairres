@@ -1,0 +1,48 @@
+scale: agree
+- strongly disagree
+- disagree
+- somewhat disagree
+- neutral
+- somehwat agree
+- agree
+- strongly agree
+
+l: npm_part1
+t: scale agree
+o: 50%
+q: If I did not have my smartphone with me,
+- I would feel uncomfortable without constant access to information through my smartphone
+- I would be annoyed if I could not look information up on my smartphone when I wanted to do so
+- Being unable to get the news (e.g., happenings, weather, etc.) on my smartphone would make me nervous
+- I would be annoyed if I could not use my smartphone and/or its capabilities when I wanted to do so
+- Running out of battery in my smartphone would scare me
+- If I were to run out of credits or hit my monthly data limit, I would panic
+- If I did not have a data signal or could not connect to Wi-Fi, then I would constantly check to see if I had a signal or could find a Wi-Fi network
+- If I could not use my smartphone, I would be afraid of getting stranded somewhere
+- If I could not check my smartphone for a while, I would feel a desire to check it
+
+l: npm_part2
+t: scale agree
+o: 50%
+q: <b>If I did not have my smartphone with me,</b>
+- I would feel anxious because I could not instantly communicate with my family and/or friends
+- I would be worried because my family and/or friends could not reach me
+- I would feel nervous because I would not be able to receive text messages and calls
+- I would be anxious because I could not keep in touch with my family and/or friends
+- I would be nervous because I could not know if someone had tried to get a hold of me
+- I would feel anxious because my constant connection to my family and friends would be broken
+- I would be nervous because I would be disconnected from my online identity
+- I would be uncomfortable because I could not stay up-to-date with social media and online networks
+- I would feel awkward because I could not check my notifications for updates from my connections and online networks
+- I would feel anxious because I could not check my email messages
+- I would feel weird because I would not know what to do
+
+l: npm_score
+t: set
+- sum $npm_part1 $npm_part2
+
+l: feedback
+t: info
+q: Your score on the NPM-Q is {$npm_score}.<br>
+Scores can vary from 20 to 140.<br>
+Remember your score and return to PsyToolkit website (next page) to read interpretation.<br>

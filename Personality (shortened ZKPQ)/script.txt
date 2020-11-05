@@ -1,0 +1,93 @@
+scale: truefalse
+- {score=1} True
+- {score=0} False
+
+l: zkpq
+t: scale truefalse
+o: random
+o: width 80%
+q: For each of the following statements,<br>
+select whether it is true or false for you.
+- I do not like to waste time just sitting around and relaxing.
+- I lead a busier life than most people.
+- I like to be doing things all of the time.
+- {reverse} I can enjoy myself just lying around and not doing anything active.
+- {reverse} I do not feel the need to be doing things all of the time.
+- When on vacation I like to engage in active sports rather than just lie around.
+- I like to wear myself out with hard work or exercise.
+- I like to be active as soon as I wake up in the morning.
+- I like to keep busy all the time.
+- When I do things, I do them with lots of energy.
+- When I get mad, I say ugly things.
+- It's natural for me to curse when I am mad.
+- {reverse} I almost never feel like I would like to hit someone.
+- {reverse} If someone offends me, I just try not to think about it.
+- If people annoy me I do not hesitate to tell them so.
+- When people disagree with me I cannot help getting into an argument with them.
+- I have a very strong temper.
+- I can't help being a little rude to people I do not like.
+- {reverse} I am always patient with others even when they are irritating.
+- When people shout at me, I shout back.
+- I often do things on impulse.
+- I would like to take off on a trip with no preplanned or definite routes or timetables.
+- I enjoy getting into new situations where you can't predict how things will turn out.
+- I sometimes like to do things that are a little frightening.
+- I'll try anything once.
+- I would like the kind of life where one is on the move and travelling a lot, with lots of change and excitement.
+- I sometimes do "crazy" things just for fun.
+- I prefer friends who are excitingly unpredictable.
+- I often get so carried away by new and exciting things and ideas that I never think of possible complications.
+- I like "wild" uninhibited parties.
+- My body often feels all tightened up for no apparent reason.
+- I frequently get emotionally upset.
+- I tend to be oversensitive and easily hurt by thoughtless remarks and actions of others.
+- I am easily frightened.
+- I sometimes feel panicky.
+- I often feel unsure of myself.
+- I often worry about things that other people think are unimportant.
+- I often feel like crying sometimes without a reason.
+- {reverse} I don't let a lot of trivial things irritate me.
+- I often feel uncomfortable and ill at ease for no real reason.
+- {reverse} I do not mind going out alone and usually prefer it to being out in a large group.
+- I spend as much time with my friends as I can.
+- {reverse} I do not need a large number of casual friends.
+- {reverse} I tend to be uncomfortable at big parties.
+- At parties, I enjoy mingling with many people whether I already know them or not.
+- {reverse} I would not mind being socially isolated in some place for some period of time.
+- {reverse} Generally, I like to be alone so I can do things I want to do without social distractions.
+- I am a very sociable person.
+- {reverse} I usually prefer to do things alone.
+- I probably spend more time than I should socializing with friends.
+
+l: act
+t: set
+- sum $zkpq.1 $zkpq.2 $zkpq.3 $zkpq.4 $zkpq.5 $zkpq.6 $zkpq.7 $zkpq.8 $zkpq.9 $zkpq.10
+
+l: agghost
+t: set
+- sum $zkpq.11 $zkpq.12 $zkpq.13 $zkpq.14 $zkpq.15 $zkpq.16 $zkpq.17 $zkpq.18 $zkpq.19 $zkpq.20
+
+l: impss
+t: set
+- sum $zkpq.21 $zkpq.22 $zkpq.23 $zkpq.24 $zkpq.25 $zkpq.26 $zkpq.27 $zkpq.28 $zkpq.29 $zkpq.30
+
+l: neuranx
+t: set
+- sum $zkpq.31 $zkpq.32 $zkpq.33 $zkpq.34 $zkpq.35 $zkpq.36 $zkpq.37 $zkpq.38 $zkpq.39 $zkpq.40
+
+l: soc
+t: set
+- sum $zkpq.41 $zkpq.42 $zkpq.43 $zkpq.44 $zkpq.45 $zkpq.46 $zkpq.47 $zkpq.48 $zkpq.49 $zkpq.50
+
+l: feedback
+t: info
+q: Your scores on the ZKPQ are as follows:<br>
+<ul>
+<li>Activity: {$act}
+<li>Aggression-Hostility: {$agghost}
+<li>Impulsive Sensation Seeking: {$impss}
+<li>Neuroticism-Anxiety: {$neuranx}
+<li>Sociability: {$soc}
+</ul>
+Write down your scores (for comparison).<br>
+Note: Scores range from 0 to 10.<br>

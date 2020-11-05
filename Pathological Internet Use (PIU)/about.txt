@@ -1,0 +1,24 @@
+Introduction
+Problematic internet use is a common phenomenon. The Pathological Internet Use (PIU) scale helps to identify people with pathological Internet use. One of the advantages of the PIU is that it is a short and simple scale.
+
+See also the PsyToolkit implementation of the Problematic Internet Use Questionnaire and the Facebook addiction scale here on PsyToolkit.
+If you are concerned about your Internet use, you can find more information about how to seek help here: Internet & Computer Addiction via HelpGuide.org. You can also ask your doctor. If you are a student, visit your school or university counselling service.
+In the study by Morahan-Martin and Schumacher (2000), pathological Internet use is defined as follows:
+
+The current study uses the term ``Pathological Internet Use'' (PIU) to describe disturbed patterns of Internet use. PIU is defined in terms of Internet use which causes a specified number of symptoms, including mood-altering use of the Internet, failure to fulfil major role obligations, guilt, and craving.
+
+The participants in the original PIU study were 277 undergraduate students in the USA. Note that the PIU contains 13 yes/no questions (1 point each).
+
+Description									How scored		% of students
+No symptoms of pathological internet use 	0 points		27.2%
+Limited symptoms (1 to 3 out of 13) 1 to 	3 points 		64.7%
+Pathological Internet Uae 					4 to 13 points	8.1%
+
+Note that the study is more than 15 years old, and it is likely that today’s students use the Internet more. For example, in the study, the following Internet average usage was given (p.16): "Participants had used the Internet for an average of 20.08 months (SD=13.8) and reported average weekly use was 3.45 h (SD=4.24). Computer labs were the most frequent place that participants went online (87.4%) followed by home (42%), dorm (20.9%), work (12.3%), and other (5.4%)."
+
+
+
+References
+==========
+
+Morahan-Martin, J. and Schumacher, P. (2000). Incidence and correlates of pathological Internet use among college students. Computers in Human Behavior, 16, 13-29.

@@ -1,0 +1,29 @@
+Introduction
+============
+
+Many people dislike spiders and some are even seriously afraid of them. A serious fear of spiders is also known as arachnophobia.
+
+There is a horror comedy film about this topic, it is called Arachnophobia. Link here.
+Fear of spiders is a topic psychologists and psychiatrists study for different reasons. Psychiatrists are focused on reducing spider fear, whereas in psychology spider images are sometimes used to experimentally induce an emotional fear response. This approach can be useful in the experimental study of emotion (and in most people, the fear of spiders is not as extreme as in spider phobics, who better should not take part in such studies).
+
+There are various scales, and two of the well known ones are this SPQ and also the Fear of Spider Questionnaire.
+
+There is a good comparison article on the SPQ and the FSQ by Muris & Merckelback, 1996. The SPQ is older (Klorman et al., 1974) than the FSQ (Szymanksi & O’Donohue, 1995), but still a popular choice.
+For population means, here is a summary from Muris & Merckelbach’s (1996) table 1.
+
+Group							SPQ score (scale runs from 0 to 31)
+non-phobics     				2.7
+Spider Phobics before treatment	23.2
+Spider Phobics after treatment	14.2
+
+On YouTube, there are numerous clips about fear of spiders. Based on the above research, you should take the possibility of fully overcoming fear of spiders with a grain of salt. Fear can be reduced, but not reduced to the level in non-phobics.
+
+
+References
+==========
+
+Klorman, R., Weerts, T. C., Hastings, J. E., Melamed, B. G., Lang, P. J. (1974). Psychometric descriptions of some specific fear questionnaires. Behavior Therapy, 5, 401-409.
+
+Muris, P. and Merckelbach, H. (1996). A comparison of two spider fear questionnaires. Journal of Therapy and Experimental Psychiatry, 27(3), 241-244.
+
+Szymanksi, J. and O’Donohue, W. (1995). Fear of spiders Questionnaire. Journal of Therapy and Experimental Psychiatry, 26(1), 31-34.

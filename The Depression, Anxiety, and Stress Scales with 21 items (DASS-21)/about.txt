@@ -1,0 +1,14 @@
+Introduction
+============
+
+For a full description/interpretation see the DASS. This is simply a shorter version.
+
+The "normal" DASS has 42 questions. In order to have comparible scores, the sum of the DASS-21 is multiplied by 2. For the score interpretation, see the DASS description.
+
+In the original DASS-21, the abbreviation "eg" is used for "for example". In this PsyToolkit version, "for example" is used, because not everybody might now the abbreviation "eg" (which is predominantly used in academia).
+
+
+References
+==========
+
+Lovibond, S.H. & Lovibond, P.F. (1995). Manual for the Depression Anxiety & Stress Scales. (2 Ed.)Sydney: Psychology Foundation.

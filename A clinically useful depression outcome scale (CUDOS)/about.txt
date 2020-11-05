@@ -1,0 +1,18 @@
+Introduction
+============
+
+There is a variety of rating scales for symptoms of depression, and the Clinically Useful Depression Outcome Scale (CUDOS) is one of them. One of the advantages of CUDOS over the well known Beck depression inventory (BDI) is that this one can be used freely for research purposes.
+
+The CUDOS can be used to indicate cases of depression. The authors write:
+
+Our data and clinical experience allowed us to approximate ranges of scores corresponding to a dimensional assessment of depression severity. We recommend that the nondepressed range corresponds to CUDOS scores of 0 to10; minimal depression, 11 to 20; mild depression, 21 to 30; moderate depression, 31 to 45; and severe depression, 46 and above.
+
+— Zimmerman et al. (2008)
+p.137
+
+
+
+References
+==========
+
+Zimmerman, M., Chelminski, I, McGlinchey, J. B. and Posternak, M. A. (2008). A clinically useful depression outcome scale. Comprehensive Psychiatry, 49, 131-140.

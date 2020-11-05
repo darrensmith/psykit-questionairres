@@ -1,0 +1,73 @@
+scale: much
+- Not at all
+- .
+- Somewhat
+- .
+- Totally
+
+l: gtps_refs
+t: scale much
+o: width 50%
+q: The following items refer to thoughts and feelings you may have had about others <b>over the last month</b>.<br>
+Think about the last month and indicate the extent of these feelings from 1 (Not at all) to 5 (Totally).<br><br>
+(N.B. Please do not rate items according to any experiences you may have had under the influence of drugs.)<br><br>
+- I spent time thinking about friends gossiping about me
+- I often heard people referring to me
+- I have been upset by friends and colleagues judging me critically
+- People definitely laughed at me behind my back
+- I have been thinking a lot about people avoiding me
+- People have been dropping hints for me
+- I believed that certain people were not what they seemed
+- People talking about me behind my back upset me
+- I was convinced that people were singling me out
+- I was certain that people have followed me
+- Certain people were hostile towards me personally
+- People have been checking up on me
+- I was stressed out by people watching me
+- I was frustrated by people laughing at me
+- I was worried by people’s undue interest in me
+- It was hard to stop thinking about people talking about me behind my back
+
+l: gtps_pers
+t: scale much
+o: width 50%
+q: The following items refer to thoughts and feelings you may have had about others over the last month.<br>
+Think about the last month and indicate the extent of these feelings from 1 (Not at all) to 5 (Totally).<br><br>
+(N.B. Please do not rate items according to any experiences you may have had under the influence of drugs.)<br>
+- Certain individuals have had it in for me
+- I have definitely been persecuted
+- People have intended me harm
+- People wanted me to feel threatened, so they stared at me
+- I was sure certain people did things in order to annoy me
+- I was convinced there was a conspiracy against me
+- I was sure someone wanted to hurt me
+- I was distressed by people wanting to harm me in some way
+- I was preoccupied with thoughts of people trying to upset me deliberately
+- I couldn’t stop thinking about people wanting to confuse me
+- I was distressed by being persecuted
+- I was annoyed because others wanted to deliberately upset me
+- The thought that people were persecuting me played on my mind
+- It was difficult to stop thinking about people wanting to make me feel bad
+- People have been hostile towards me on purpose
+- I was angry that someone wanted to hurt me
+
+l: gtps1
+t: set
+- sum $gtps_refs
+
+l: gtps2
+t: set
+- sum $gtps_pers
+
+l: gtps3
+t: set
+- sum $gtps1 $gtps2
+
+l: feedback
+t: info
+q: Your score on the GPTS is as follows:<br>
+Note, scores on both dimensions have a possible range from 16 to 80.<br>
+Score on the GTPS Ideas of social reference: {$gtps1}.<br>
+Score on the GTPS Ideas of persecution: {$gtps2}.<br>
+Total score (ranging from 32 to 160: {$gtps3}.<br>
+Write down the scores for comparison with others.

@@ -1,0 +1,179 @@
+scale: mhcagree
+- {score=0} Never
+- {score=1} Once or Twice
+- {score=2} About once a week
+- {score=3} About 2 or 3 times a week
+- {score=4} Almost every day
+- {score=5} Every day
+
+
+l: mhc
+q: <b>During the PAST MONTH, how often did you feel...</b>
+t: scale mhcagree
+o: width 40%
+- happy
+- interested in life
+- satisfied with life
+- that you had something important to contribute to society
+- that you belonged to a community (like a social group, or your neighborhood)
+- that our society is a good place, or is becoming a better place, for all people
+- that people are basically good
+- that the way our society works makes sense to you
+- that you liked most parts of your personality
+- good at managing the responsibilities of your daily life
+- that you had warm and trusting relationships with others
+- that you had experiences that challenged you to grow and become a better person
+- confident to think or express your own ideas and opinions
+- that your life has a sense of direction or meaning to it
+
+l: mhcscore
+t: set
+- sum $mhc
+
+## for the classification of flourisihing, people need to have scored 4 or 5 on items 1-3 and at least 6 times on items 4-14.
+## we need to rescore items 4 to 14 (11 items)
+
+l: mhc2_4
+t: set
+- if $mhc.4 >= 4 then 1
+
+l: mhc2_5
+t: set
+- if $mhc.5 >= 4 then 1
+
+l: mhc2_6
+t: set
+- if $mhc.6 >= 4 then 1
+
+l: mhc2_7
+t: set
+- if $mhc.7 >= 4 then 1
+
+l: mhc2_8
+t: set
+- if $mhc.8 >= 4 then 1
+
+l: mhc2_9
+t: set
+- if $mhc.9 >= 4 then 1
+
+l: mhc2_10
+t: set
+- if $mhc.10 >= 4 then 1
+
+l: mhc2_11
+t: set
+- if $mhc.11 >= 4 then 1
+
+l: mhc2_12
+t: set
+- if $mhc.12 >= 4 then 1
+
+l: mhc2_13
+t: set
+- if $mhc.13 >= 4 then 1
+
+l: mhc2_14
+t: set
+- if $mhc.14 >= 4 then 1
+
+l: sumscore2
+t: set
+- sum $mhc2_*
+
+l: flourishing
+t: set
+- if ( $mhc.1 >= 4 or $mhc.2 >= 4 or $mhc.3 >= 4 ) and $sumscore2 >= 6 then 1
+
+#######################################
+## now score languishing
+## for people to score languashing, they need at least one score of 1 or 2 on items 1-3 and 1 or 2 on at least 6 measures of items 4-14 are languashing
+
+l: mhc3_4
+t: set
+- if $mhc.4 <= 1 then 1
+
+l: mhc3_5
+t: set
+- if $mhc.5 <= 1 then 1
+
+l: mhc3_6
+t: set
+- if $mhc.6 <= 1 then 1
+
+l: mhc3_7
+t: set
+- if $mhc.7 <= 1 then 1
+
+l: mhc3_8
+t: set
+- if $mhc.8 <= 1 then 1
+
+l: mhc3_9
+t: set
+- if $mhc.9 <= 1 then 1
+
+l: mhc3_10
+t: set
+- if $mhc.10 <= 1 then 1
+
+l: mhc3_11
+t: set
+- if $mhc.11 <= 1 then 1
+
+l: mhc3_12
+t: set
+- if $mhc.12 <= 1 then 1
+
+l: mhc3_13
+t: set
+- if $mhc.13 <= 1 then 1
+
+l: mhc3_14
+t: set
+- if $mhc.14 <= 1 then 1
+
+l: sumscore3
+t: set
+- sum $mhc3_*
+
+l: languishing
+t: set
+- if ( $mhc.1 < 2 or $mhc.2 < 2 or $mhc.3 < 2 ) and $sumscore3 >= 6 then 1
+
+#########################################
+
+l:
+t: jump
+- if $flourishing == 1 then goto flourishing_feedback
+- if $languishing == 1 then goto languishing_feedback
+
+l: moderate_feedback
+t: info
+q: Your score on the Mental Health Continuum Short Form (MHC-SF) is {$mhcscore}.<br>
+Based on your answers, your have a <b>moderate</b> mental health.<br>
+See the PsyToolkit webpage for more information on how to interpret this.
+Click link in following question to get back to the explaining PsyToolkit page.
+
+j: end_questions
+
+l: flourishing_feedback
+t: info
+q: Your score on the Mental Health Continuum Short Form (MHC-SF) is {$mhcscore}.<br>
+Based on your answers, your have a <b>flourishing</b> mental health.<br>
+See the PsyToolkit webpage for more information on how to interpret this.
+Click link in following question to get back to the explaining PsyToolkit page.
+
+j: end_questions
+
+l: languishing_feedback
+t: info
+q: Your score on the Mental Health Continuum Short Form (MHC-SF) is {$mhcscore}.<br>
+Based on your answers, your have a <b>languishing</b> mental health.<br>
+See the PsyToolkit webpage for more information on how to interpret this.
+Click link in following question to get back to the explaining PsyToolkit page.
+
+l: end_questions
+t: info
+q: This is the end of the questionnaire.<br>
+Follow link in next item to get back to PsyToolkit description of the scale.

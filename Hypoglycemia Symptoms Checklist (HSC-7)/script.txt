@@ -1,0 +1,28 @@
+scale: hscscale
+- Not at all
+- A little
+- Fairly
+- Very
+
+l: hsc
+t: scale hscscale
+o: width 50%
+q: Please tick the boxes that best describe how you feel at this moment
+- Clumsy
+- Confused
+- Difficulty in speaking
+- Weak
+- Heart beating
+- Shivering
+- Sweating
+
+l: hsc_score
+t: set
+- mean $hsc
+
+l: feedback
+t: info
+q: The Hypoglycemia Symptoms Checklist can have scores between 1 and 4.<br>
+Your score on the Hypoglycemia Symptoms Checklist is {$hsc_score}.<br>
+The average score in control participants was around 2.0 to 2.1.<br>
+See PsyToolkit survey library entry on this topic for more details.<br>

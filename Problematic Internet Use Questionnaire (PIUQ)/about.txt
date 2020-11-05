@@ -1,0 +1,26 @@
+Introduction
+============
+
+Problematic internet use is a common phenomenon. The Problematic Internet Use Questionnaire (PIUQ) was first published in 2006 and its psychometric properties were checked in a study by Kelly & Gruber (2010). The latter study generally confirmed the three-factor structure.
+
+The three factors underlying the PIUQ are:
+
+Obsession — being obsessed with Internet activities
+
+Neglect — neglecting non-internet activities
+
+Control disorder — unable stopping to use the internet
+
+See also the PsyToolkit implementation of the Facebook addiction scale.
+The participants in the original PIUQ study (carried out in Budapest, Hungary) were (approximately) for 50% students, and the mean age was 23 years. The age of participants ranged from 12 to 69.
+
+The PIUQ does not give any cut-off points (for when Internet use becomes of concern) because it did not study a clinical population.
+
+
+
+References
+==========
+
+Demetrovics, Z., Szeredi, B., & Rózsa, S. (2008). The three-factor model of Internet addiction: The development of the Problematic Internet Use Questionnaire. Behavior Research Methods, 40, 563-574.
+
+Kelley, K. J. & Gruber, E. M. (2010). Psychometric properties of the Problematic Internet Use Questionaire. Computers in human behavior, 26, 1838-1845.

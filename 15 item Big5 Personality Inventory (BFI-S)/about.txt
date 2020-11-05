@@ -1,0 +1,26 @@
+Introduction
+============
+
+The BIG 5 is one of the leading models to express the most important dimensions of personality, namely:
+
+Openness,
+
+Conscientiousness,
+
+Extraversion,
+
+Agreeableness,
+
+Neuroticism (also known as emotional instability)
+
+You can remember these easily as OCEAN (the first letter of each trait).
+
+Watch short video about the BIG 5 personality
+Typically, questionnaires measuring BIG 5 dimenionsions can take some time, but there are short ones that are reasonably reliable (depending on what you need it for, etc, check the references).
+
+
+
+References
+==========
+
+Lang, F. R., John, D., Ludtke, O., Schupp, J., & Wagner, G. G. (2011). Short assessment of the Big Five: robust accros survey methods except telephone interviewing. Behavior Research Methods, 43, 548-567.

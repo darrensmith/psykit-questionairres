@@ -1,0 +1,39 @@
+scale: frequency
+- {score=0} not at all
+- {score=1} several days
+- {score=2} more than half the days
+- {score=3} nearly every day
+
+l: phq
+t: scale frequency
+o: width 50%
+q: Over the <b>last 2 weeks</b>, how often have you been bothered by any of the following problems?
+- Little interest or pleasure in doing things
+- Feeling down, depressed, or hopeless
+- Trouble falling or staying asleep, or sleeping too much
+- Feeling tired or having little energy
+- Poor appetite or overeating
+- Feeling bad about yourself - or that you are a failure or have let yourself or your family down
+- Trouble concentrating on things, such as reading the newspaper or watching television
+- Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual
+- Thoughts that you would be better off dead or of hurting yourself in some way
+
+l: score
+t: set
+- sum $phq
+
+l: feedback
+t: info
+q: Your score is {$score} on the Personal Health Questionnaire:<br>
+You can use the table below to interprete this score.<br>
+<ul>
+<li>A score of 5-9 points: Mild depression
+<li>A score of 10-14 points: Moderate depression
+<li>A score of 15-19 points: Moderately severe depression
+<li>A score of 20 points and higher: Severe depression
+</ul><br>
+This is simply a computer demonstration and does not replace a clinical diagnosis!<br>
+If you are concerned about your mental health, make sure you seek help,<br>
+for example from your doctor.<br>
+If you are a student, you can contact your student services or mentor.<br>
+Almost all schools and universities have a place where you can ask for help.<br>

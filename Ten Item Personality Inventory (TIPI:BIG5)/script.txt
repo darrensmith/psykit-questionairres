@@ -1,0 +1,55 @@
+scale: agree
+- Disagree strongly
+- Disagree moderately
+- Disagree a little
+- Neither agree nor disagree
+- Agree a little
+- Agree moderately
+- Agree strongly
+
+l: tipi
+t: scale agree
+o: width 20%
+q: Now you see a number of statements about how you see yourself. For each statement, you need to select one of seven statements. Select the option that fits best.
+<b>I see myself as ...</b>
+- Extroverted, enthusiastic
+- {reverse} Critical, quarrelsome
+- Dependable, self-disciplined
+- {reverse} Anxious, easily upset
+- Open to new experiences, complex
+- {reverse} Reserved, quiet
+- Sympathetic, warm
+- {reverse} Disorganized, careless
+- Calm, emotionally stable
+- {reverse} Conventional, uncreative
+
+l: extraversion
+t: set
+- mean $tipi.1 $tipi.6
+
+l: agreeableness
+t: set
+- mean $tipi.2 $tipi.7
+
+l: conscientiousness
+t: set
+- mean $tipi.3 $tipi.8
+
+l: emotionally_stable
+t: set
+- mean $tipi.4 $tipi.9
+
+l: openness
+t: set
+- mean $tipi.5 $tipi.10
+
+l: feedback
+t: info
+q: Your BIG5 dimensions are as follows (on a 1-7 scale):
+<ul>
+<li>Extraversion: {$extraversion}
+<li>Agreeableness: {$agreeableness}
+<li>Conscientiousness: {$conscientiousness}
+<li>Emotional stability: {$emotionally_stable}
+<li>Openness to experience: {$openness}
+</ul>

@@ -1,0 +1,47 @@
+scale: truefalse
+- {score=1} True
+- {score=0} False
+
+l: spq
+t: scale truefalse
+o: width 80%
+q: For each of the following statements, indicate whether it is true (yes) or false (no) for you.
+- I avoid going to parks or on camping trips because there may be spiders about.
+- I would feel some anxiety holding a toy spider in my hand.
+- If a picture of a spider crawling on a person appears on the screen during a motion picture, I turn my head away.
+- I dislike looking at pictures of spiders in a magazine.
+- If there is a spider on the ceiling over my bed, I cannot go to sleep unless someone kills it for me.
+- {reverse} I enjoy watching spiders build their webs.
+- I am terrified by the thought of touching a harmless spider.
+- If someone says that there are spiders anywhere about, I become alert and edgy
+- I would not go down to the basement to get something if I thought there might be spiders down there.
+- I would feel uncomfortable if a spider crawled out of my shoe as I took it out of the closet to put it on.
+- When I see a spider, I feel tense and restless.
+- {reverse} I enjoy reading articles about spiders.
+- I feel sick when I see a spider.
+- {reverse} Spiders are sometimes useful.
+- I shudder when I think of spiders.
+- {reverse} I don't mind being near a harmless spider if there is someone there in whom I have confidence.
+- {reverse} Some spiders are very attractive to look at.
+- I don't believe anyone could hold a spider without some fear.
+- The way spiders move is repulsive.
+- {reverse} It wouldn't bother me to touch a dead spider with a long stick.
+- If I came upon a spider while cleaning the attic I would probably run.
+- I'm probably more afraid of spiders than of any other animal.
+- I would not want to travel to Mexico or Central America because of the greater prevalence of tarantulas.
+- I am cautious when buying fruit because bananas may attract spiders.
+- {reverse} I have no fear of non-poisonous spiders.
+- I wouldn't take a course in biology if I thought I might have to handle live spiders.
+- {reverse} Spider webs are very artistic.
+- {reverse} I think that I'm no more afraid of spiders than the average person.
+- I would prefer not to finish a story if something about spiders was introduced into the plot.
+- Not only am I afraid of spiders but millipedes and caterpillars make me feel anxious.
+- Even if I was late for a very important appointment, the thought of spiders would stop me from taking a shortcut through an underpass.
+
+l: spq_score
+t: set
+- sum $spq
+
+l: feedback
+t: info
+q: Your Spider Fear Questionnaire score is {$spq_score}.

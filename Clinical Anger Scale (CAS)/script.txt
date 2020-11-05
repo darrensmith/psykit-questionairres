@@ -1,0 +1,100 @@
+l: cas
+q: For each cluster of items, read and identify the statement that best reflects how you feel.<br><br>
+PLEASE BE HONEST IN RESPONDING TO THE STATEMENTS.<br>
+<br>
+t: multiradio 4
+o: scores 0 1 2 3
+- A. I do not feel angry.
+- B. I feel angry.
+- C. I am angry most of the time now.
+- D. I am so angry and hostile all the time that I can't stand it.
+- A. I am not particularly angry about my future.
+- B. When I think about my future, I feel angry.
+- C. I feel angry about what I have to look forward to.
+- D. I feel intensely angry about my future, since it cannot be improved.
+- A. It makes me angry that I feel like such a failure.
+- B. It makes me angry that I have failed more than the average person.
+- C. As I look back on my life, I feel angry about my failures.
+- D. It makes me angry to feel like a complete failure as a person.
+- A. I am not all that angry about things.
+- B. I am becoming more hostile about things than I used to be.
+- C. I am pretty angry about things these days.
+- D. I am angry and hostile about everything.
+- A. I don't feel particularly hostile at others.
+- B. I feel hostile a good deal of the time.
+- C. I feel quite hostile most of the time.
+- D. I feel hostile all of the time.
+- A. I don't feel that others are trying to annoy me.
+- B. At times I think people are trying to annoy me.
+- C. More people than usual are beginning to make me feel angry.
+- D. I feel that others are constantly and intentionally making me angry.
+- A. I don't feel angry when I think about myself.
+- B. I feel more angry about myself these days than I used to.
+- C. I feel angry about myself a good deal of the time.
+- D. When I think about myself, I feel intense anger.
+- A. I don't have angry feelings about others having screwed up my life.
+- B. It's beginning to make me angry that others are screwing up my life.
+- C. I feel angry that others prevent me from having a good life.
+- D. I am constantly angry because others have made my life totally miserable.
+- A. I don't feel angry enough to hurt someone.
+- B. Sometimes I am so angry that I feel like hurting others, but I would not really do it.
+- C. My anger is so intense that I sometimes feel like hurting others.
+- D. I'm so angry that I would like to hurt someone.
+- A. I don't shout at people any more than usual.
+- B. I shout at others more now than I used to.
+- C. I shout at people all the time now.
+- D. I shout at others so often that sometimes I just can't stop.
+- A. Things are not more irritating to me now than usual.
+- B. I feel slightly more irritated now than usual.
+- C. I feel irritated a good deal of the time.
+- D. I'm irritated all the time now.
+- A. My anger does not interfere with my interest in other people.
+- B. My anger sometimes interferes with my interest in others.
+- C. I am becoming so angry that I don't want to be around others.
+- D. I'm so angry that I can't stand being around people.
+- A. I don't have any persistent angry feelings that influence my ability to make decisions.
+- B. My feelings of anger occasionally undermine my ability to make decisions.
+- C. I am angry to the extent that it interferes with my making good decisions.
+- D. I'm so angry that I can't make good decisions anymore.
+- A. I'm not so angry and hostile that others dislike me.
+- B. People sometimes dislike being around me since I become angry.
+- C. More often than not, people stay away from me because I'm so hostile and angry.
+- D. People don't like me anymore because I'm constantly angry all the time.
+- A. My feelings of anger do not interfere with my work.
+- B. From time to time my feelings of anger interfere with my work.
+- C. I feel so angry that it interferes with my capacity to work.
+- D. My feelings of anger prevent me from doing any work at all.
+- A. My anger does not interfere with my sleep.
+- B. Sometimes I don't sleep very well because I'm feeling angry.
+- C. My anger is so great that I stay awake 1-2 hours later than usual.
+- D. I am so intensely angry that I can't get much sleep during the night.
+- A. My anger does not make me feel anymore tired than usual.
+- B. My feelings of anger are beginning to tire me out.
+- C. My anger is intense enough that it makes me feel very tired.
+- D. My feelings of anger leave me too tired to do anything.
+- A. My appetite does not suffer because of my feelings of anger.
+- B. My feelings of anger are beginning to affect my appetite.
+- C. My feelings of anger leave me without much of an appetite.
+- D. My anger is so intense that it has taken away my appetite.
+- A. My feelings of anger don't interfere with my health.
+- B. My feelings of anger are beginning to interfere with my health.
+- C. My anger prevents me from devoting much time and attention to my health.
+- D. I'm so angry at everything these days that I pay no attention to my health and well-being.
+- A. My ability to think clearly is unaffected by my feelings of anger.
+- B. Sometimes my feelings of anger prevent me from thinking in a clear-headed way.
+- C. My anger makes it hard for me to think of anything else.
+- D. I'm so intensely angry and hostile that it completely interferes with my thinking.
+- A. I don't feel so angry that it interferes with my interest in sex.
+- B. My feelings of anger leave me less interested in sex than I used to be.
+- C. My current feelings of anger undermine my interest in sex.
+- D. I'm so angry about my life that I've completely lost interest in sex.
+
+l: cas_score
+t: set
+- sum $cas
+
+l: feedback
+t: info
+q: Your score on the Clinical Anger Scale is {$cas_score}.<br>
+Scores range between 0 and 63 points.<br>
+In the original study by Snell (1995), students scored around 10 points.<br>

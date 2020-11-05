@@ -1,0 +1,57 @@
+scale: frequency
+- never
+- rarely
+- sometimes
+- often
+- always
+
+l: piuq
+t: scale frequency
+o: width 50%
+o: random
+q: In the following you will read statements about your Internet use.<br>
+Please indicate how much these statements characterize you.
+- How often do you fantasize about the Internet, or think about what it would be like to be online when you are not on the Internet?
+- How often do you neglect household chores to spend more time online?
+- How often do you feel that you should decrease the amount of time spent online?
+- How often do you daydream about the Internet?
+- How often do you spend time online when you’d rather sleep?
+- How often does it happen to you that you wish to decrease the amount of time spent online but you do not succeed?
+- How often do you feel tense, irritated, or stressed if you cannot use the Internet for as long as you want to?
+- How often do you choose the Internet rather than being with your partner?
+- How often do you try to conceal the amount of time spent online?
+- How often do you feel tense, irritated, or stressed if you cannot use the Internet for several days?
+- How often does the use of Internet impair your work or your efficacy?
+- How often do you feel that your Internet usage causes problems for you?
+- How often does it happen to you that you feel depressed, moody, or nervous when you are not on the Internet and these feelings stop once you are back online?
+- How often do people in your life complain about spending too much time online?
+- How often do you realize saying when you are online, “just a couple of more minutes and I will stop”?
+- How often do you dream about the Internet?
+- How often do you choose the Internet rather than going out with somebody to have some fun?
+- How often do you think that you should ask for help in relation to your Internet use?
+
+l: total
+t: set
+- sum $piuq
+
+l: obsession
+t: set
+- sum $piuq.1 $piuq.4 $piuq.7 $piuq.10 $piuq.13 $piuq.16
+
+l: neglect
+t: set
+- sum $piuq.2 $piuq.5 $piuq.8 $piuq.11 $piuq.14 $piuq.17
+
+l: control
+t: set
+- sum $piuq.3 $piuq.6 $piuq.9 $piuq.12 $piuq.15 $piuq.18
+
+l: feedback
+t: info
+q: Your overall score (possible range 18-90): {$total}<br>
+Your three subscale scores:<br>
+<ul>
+<li>Obsession (possible range 6-30): {$obsession}
+<li>Neglect (possible range 6-30): {$neglect}
+<li>Control disorder (possible range 6-30): {$control}
+</ul>

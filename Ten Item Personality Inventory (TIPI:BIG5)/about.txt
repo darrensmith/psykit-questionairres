@@ -1,0 +1,30 @@
+Introduction
+============
+
+The BIG 5 is one of the leading models to express the most important dimensions of personality, namely:
+
+Openness,
+
+Conscientiousness,
+
+Extraversion,
+
+Agreeableness,
+
+Neuroticism (also known as emotional instability)
+
+You can remember these easily as OCEAN (the first letter of each trait).
+
+Watch short video about the BIG 5 personality
+Typically, questionnaires measuring BIG 5 dimenionsions can take some time, but there are short ones of only 10 items that are reasonably reliable (depending on what you need it for, etc, see the accompanying paper by Gosling and colleagues, 2003).
+
+See also the BFI-S here in the PsyToolkit survey library.
+There are alternative models of personality, some of them quite different.
+Below are the "normative data" taken from the Gosling et al. (2003) paper (Appendix B, p.526) for all ethnicities. This is a sample of 1812 students at a university in the USA (all ethnicities). For more details (including standard deviation), please read the original paper by Gosling and colleagues, 2003).
+
+
+
+References
+==========
+
+S. D. Gosling, P. J. Rentfrow, and W. B. Swann Jr. (2003). A very brief measure of the Big-Five personality domains. Journal of Research in Personality, 37, 504-528.
