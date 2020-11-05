@@ -1,0 +1,29 @@
+scale: problems
+- no problems experienced
+- a few problems experienced
+- more than a few problems experienced
+- a great many problems experienced
+
+l: webexec
+t: scale problems
+o: width 50%
+q: Please answer all the questions below as best you can.<br>
+Your answers will be confidential, and no information about your<br>
+identity will be requested or recorded.<br>
+If you change your mind about taking part in this research, please feel free to stop at any time.<br>
+Please rate the extent to which you have problems in the following areas by picking the appropriate option<br>.
+- Do you find it difficult to keep your attention on a particular task?
+- Do you find yourself having problems concentrating on a task?
+- Do you have difficulty carrying out more than one task at a time?
+- Do you tend to “lose” your train of thoughts?
+- Do you have difficulty seeing through something that you have started?
+- Do you find yourself acting on “impulse”?
+
+l: score
+t: set
+- sum $webexec
+
+l: feedback
+t: info
+q: Your score on the webexec is: {$score}<br>
+You can read more on the PsyToolkit page about the meaning of this score.

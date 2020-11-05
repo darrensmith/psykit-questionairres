@@ -1,0 +1,23 @@
+Introduction
+============
+
+OCD, Obsessive-compulive disorder is a fairly common mental disorder affecting between and 1 and 2% of the population (see for US or UK).
+
+Self-report questionnaires can help to check how many symptoms people have. One of such self-report questionniares is the Obsessive–Compulsive Inventory (Fao et al., 2002). Note that there are a number of such lists you can find on the internet.
+
+The OCI-R is a shorter version than the OCI (Fao et al., 1998). Even though the OCI-R has only 18 items, the paper states that "The OCI–R retains many of the qualities of the OCI. It was found to have good to excellent internal consistency, test–retest reliability, and convergent validity."
+
+Each item is scored on a 5-point scale (0-4 points), and the total score is the sum of the scores on all items. According to the authors, people with OCD typically have a score of 21 points and higher.
+
+The PsyToolkit implementation does not report the subscales Washing, Checking, Ordering, Obsessing, Hoarding, and Neutralizing. According to the study (Fao, 2002), not all subscales adequately differentiated people with OCD from non-patients (i.e., the Hoarding and Ordering subscales). If you want to use the subscales, you need to think carefully about these issues and check the paepr.
+
+The paper by Fao and colleagues (2002) is a brilliant example of test development. It is a highly recommended read for psychology students.
+
+
+
+References
+==========
+
+Foa, E.B., Huppert, J.D., Leiberg, S. Langner, R., Kichic, R., Hajcak, G., and Salkovskis, P.M. (2002). The obsessive–compulsive inventory: Development and validation of a short version. Psychological Assessment, 14, 485-496.
+
+Foa, E.B., Kozak, M.J., Salkovskis, P., Coles, M.E., & Amir, N. (1998). The validation of a new obsessive– compulsive disorder scale: The Obsessive–Compulsive Inventory. Psychological Assessment, 10, 206-214.

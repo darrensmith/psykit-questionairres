@@ -1,0 +1,19 @@
+Introduction
+============
+
+Executive control functions are those mental functions that coordinate thoughts and behavior.
+
+A well known questionnaire to measure these is the DEX, but it is not entirely clear whether the DEX can be used here in the PsyToolkit library (due to copyright). But there is a good alternative, namely the webexec questionnaire (Buchanan et al., 2010).
+
+The webexec consists of 6 Likert-type questions, each scored on 4 point scale (1 to 4). To calculate the total score, the scores of these items are summed. Thus, scores on the webexec can vary between 6 and 24 points.
+
+In the original study of Buchanan and colleagues with 417 participants, the mean score was 11.25 points. The sample included 186 participants cannabis users, and the cannabis users reported more executive problems (the more frequently people used cannabis, the higher the score).
+
+Click here to watch an interesting news summary of a scientific study of the relation between cannabis use and the frontal lobe.
+
+
+
+References
+==========
+
+Buchanan, T., Heffernan, T. M., Parrott, A. C., Ling, J., Rodgers, J., & Scholey, A. B. (2010). A short self-report measure of problems with executive function suitable for administration via the Internet. Behavior Research Methods, 42, 709-714.

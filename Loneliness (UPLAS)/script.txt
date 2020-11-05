@@ -1,0 +1,49 @@
+scale: agree
+- Strongly Disagree
+- Disagree
+- Agree
+- Strongly Agree
+
+l: uplas
+t: scale agree
+o: width 50%
+q: The statements given below are to identify the way you think and
+feel.<br>
+Please read each item carefully and check your response that best
+describes what you feel and think.<br>
+Thank you.<br>
+- I feel that I am always being left alone.
+- I feel that I am misunderstood.
+- I feel that others reject me.
+- I sense that people are not interested in making friends with me.
+- {reverse} I feel happy for who I am.
+- I feel that nobody likes me.
+- I don’t have a meaningful relationship with people.
+- I pity myself.
+- I feel that nobody appreciates me.
+- {reverse} I am happy for myself.
+- I am dissatisfied with my relationships.
+- I feel alone even in a group.
+- I feel hopeless about the misfortunes of my life.
+- I feel worthless.
+- {reverse} I am satisfied with my life.
+- I have no confidence to get involved in relationships.
+- I feel that others always look at my faults.
+- I feel that I am a failure in life.
+- I feel disconnected with people.
+- {reverse} I feel that my life is meaningful.
+- I usually think of sad things in life.
+- I am helpless when I think about the future.
+- I feel inadequate when it comes to relationships.
+- I feel empty even if I do many things.
+- {reverse} I feel confident about the future.
+
+l: uplas_score
+t: set
+- sum $uplas
+
+l: feedback
+t: info
+q: Your score is {$uplas}.<br>
+Score can range from 25 to 100.<br>
+The average score in the population is 44.<br>

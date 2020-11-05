@@ -1,0 +1,15 @@
+Introduction
+============
+
+The Autism Research Centre in Cambridge (UK) has released a number of surveys. One of them is to measure the Empathy Quotient (copyright by Professor Simon Baron-Cohen).
+
+You might also be interested in the Systemizing Quotient and Emotional Intelligence.
+From the website of the creators: "Our tests are posted on our website to enable free access to academic researchers. None of them are diagnostic: No single score on any of our tests or questionnaires indicates that an individual has an Autism Spectrum Condition (ASC). If you are concerned that you, or a friend or relative, may have ASC, please discuss these concerns with your GP or family doctor or ask the National Autistic Society (NAS) or equivalent charity in your country, for advice."
+
+
+References
+==========
+
+E. J. Lawrence, P. Shaw, D. Baker, S. Baron-Cohen and A. S. David, (2004) Measuring Empathy - reliability and validity of the empathy quotient Psychological Medicine 34:911-919
+
+S. Baron-Cohen and S. Wheelwright, (2004) The Empathy Quotient (EQ). An investigation of adults with Asperger Syndrome or High Functioning Autism, and normal sex differences Journal of Autism and Developmental Disorders 34:163-175

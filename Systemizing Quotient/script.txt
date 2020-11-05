@@ -1,0 +1,608 @@
+l: SQ_1
+q: I find it very easy to use train timetables, even if this involves several connections.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_2
+q: I like music or book shops because they are clearly organised.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_3
+q: I would not enjoy organising events e.g. fundraising evenings, fetes, conferences.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_4
+q: When I read something, I always notice whether it is grammatically correct.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_5
+q: I find myself categorising people into types (in my own mind).
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_6
+q: I find it difficult to read and understand maps.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_7
+q: When I look at a mountain, I think about how precisely it was formed.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_8
+q: I am not interested in the details of exchange rates, interest rates, stocks and shares.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_9
+q: If I were buying a car, I would want to obtain specific information about its engine capacity.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_10
+q: I find it difficult to learn how to programme video recorders.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_11
+q: When I like something I like to collect a lot of different examples of that type of object, so I can see how they differ from each other.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_12
+q: When I learn a language, I become intrigued by its grammatical rules.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_13
+q: I like to know how committees are structured in terms of who the different committee members represent or what their functions are.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_14
+q: If I had a collection (e.g. CDs, coins, stamps), it would be highly organised.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_15
+q: I find it difficult to understand instruction manuals for putting appliances together.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_16
+q: When I look at a building, I am curious about the precise way it was constructed.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_17
+q: I am not interested in understanding how wireless communication works (e.g. mobile phones).
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_18
+q: When travelling by train, I often wonder exactly how the rail networks are coordinated.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_19
+q: I enjoy looking through catalogues of products to see the details of each product and how it compares to others.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_20
+q: Whenever I run out of something at home, I always add it to a shopping list.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_21
+q: I know, with reasonable accuracy, how much money has come in and gone out of my bank account this month.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_22
+q: When I was young I did not enjoy collecting sets of things e.g. stickers, football cards etc.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_23
+q: I am interested in my family tree and in understanding how everyone is related to each other in the family.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_24
+q: When I learn about historical events, I do not focus on exact dates.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_25
+q: I find it easy to grasp exactly how odds work in betting.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_26
+q: I do not enjoy games that involve a high degree of strategy (e.g. chess, Risk, Games Workshop).
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_27
+q: When I learn about a new category I like to go into detail to understand the small differences between different members of that category.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_28
+q: I do not find it distressing if people who live with me upset my routines.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_29
+q: When I look at an animal, I like to know the precise species it belongs to.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_30
+q: I can remember large amounts of information about a topic that interests me e.g. flags of the world, airline logos.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_31
+q: At home, I do not carefully file all important documents e.g. guarantees, insurance policies
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_32
+q: I am fascinated by how machines work.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_33
+q: When I look at a piece of furniture, I do not notice the details of how it was constructed.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_34
+q: I know very little about the different stages of the legislation process in my country.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_35
+q: I do not tend to watch science documentaries on television or read articles about science and nature.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_36
+q: If someone stops to ask me the way, I'd be able to give directions to any part of my home town.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_37
+q: When I look at a painting, I do not usually think about the technique involved in making it.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_38
+q: I prefer social interactions that are structured around a clear activity, e.g. a hobby.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_39
+q: I do not always check off receipts etc. against my bank statement.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_40
+q: I am not interested in how the government is organised into different ministries and departments.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_41
+q: I am interested in knowing the path a river takes from its source to the sea.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_42
+q: I have a large collection e.g. of books, CDs, videos etc.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_43
+q: If there was a problem with the electrical wiring in my home, I’d be able to fix it myself.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_44
+q: My clothes are not carefully organised into different types in my wardrobe.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_45
+q: I rarely read articles or webpages about new technology.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_46
+q: I can easily visualise how the motorways in my region link up.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_47
+q: When an election is being held, I am not interested in the results for each constituency.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_48
+q: I do not particularly enjoy learning about facts and figures in history.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_49
+q: I do not tend to remember people's birthdays (in terms of which day and month this falls).
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_50
+q: When I am walking in the country, I am curious about how the various kinds of trees differ.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_51
+q: I find it difficult to understand information the bank sends me on different investment and saving systems.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_52
+q: If I were buying a camera, I would not look carefully into the quality of the lens.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_53
+q: If I were buying a computer, I would want to know exact details about its hard drive capacity and processor speed.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_54
+q: I do not read legal documents very carefully.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_55
+q: When I get to the checkout at a supermarket I pack different categories of goods into separate bags.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_56
+q: I do not follow any particular system when I'm cleaning at home.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_57
+q: I do not enjoy in-depth political discussions.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_58
+q: I am not very meticulous when I carry out D.I.Y or home improvements.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_59
+q: I would not enjoy planning a business from scratch to completion.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_60
+q: If I were buying a stereo, I would want to know about its precise technical features.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_61
+q: I tend to keep things that other people might throw away, in case they might be useful for something in the future.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_62
+q: I avoid situations which I can not control.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_63
+q: I do not care to know the names of the plants I see.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_64
+q: When I hear the weather forecast, I am not very interested in the meteorological patterns.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_65
+q: It does not bother me if things in the house are not in their proper place.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_66
+q: In maths, I am intrigued by the rules and patterns governing numbers.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_67
+q: I find it difficult to learn my way around a new city.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_68
+q: I could list my favourite 10 books, recalling titles and authors' names from memory.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_69
+q: When I read the newspaper, I am drawn to tables of information, such as football league scores or stock market indices.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_70
+q: When I’m in a plane, I do not think about the aerodynamics.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_71
+q: I do not keep careful records of my household bills.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_72
+q: When I have a lot of shopping to do, I like to plan which shops I am going to visit and in what order.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_73
+q: When I cook, I do not think about exactly how different methods and ingredients contribute to the final product.
+t: radio
+- {score=0} strongly agree
+- {score=0} slightly agree
+- {score=1} slightly disagree
+- {score=2} strongly disagree
+
+l: SQ_74
+q: When I listen to a piece of music, I always notice the way it’s structured.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQ_75
+q: I could generate a list of my favourite 10 songs from memory, including the title and the artist's name who performed each song.
+t: radio
+- {score=2} strongly agree
+- {score=1} slightly agree
+- {score=0} slightly disagree
+- {score=0} strongly disagree
+
+l: SQscore
+t: set
+- sum $SQ_*
+
+l: feedback
+t: info
+q: Your Systemizing Quotient is {$SQscore}<br>
+The range runs from 0 to 150.

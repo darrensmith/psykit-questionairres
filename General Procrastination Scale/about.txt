@@ -1,0 +1,26 @@
+Introduction
+============
+
+Procrastination is the postponing of more important activities for less important ones.
+
+On the internet, you can also find many self-help videos on how to overcome procrastination, such as this one.
+In the above video, the following two reasons for procrastination are given:
+
+People rather self-handicap. That means, they do not give 100% of their effort to reach a goal (e.g., doing well in an exam). This then creates the opportunity of an excuse. For example, they then can say "I did fail my exam because I did not work hard enough". In essence, the underlying motivation of self-handicapping is an anxiety for failure.
+
+Lack of organisation. It is just hard to organise your life. You need schedules and lists and you need to write out what you need to.
+
+The average score among students is around 9.4 points (Lay, 1986, p.477).
+
+See also the Procrastinatory Cognitions Inventory, also available in this PsyToolkit library.
+
+
+
+
+
+References
+==========
+
+Lay, C.H. (1986). At Last, My Research Article on Procrastination. Journal of Research in Personality, 20, 474-495.
+
+Ferrari, J.R. (1992). Psychometric Validation of Two Procrastination Inventories for Adults: Arousal and Avoidance Measures. Journal of Psychopathology and Behavioral Assessment, 14, 97-110.

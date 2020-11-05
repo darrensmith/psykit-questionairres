@@ -1,0 +1,29 @@
+scale: yesno
+- {score=1} yes
+- {score=0} no
+
+l: smd9
+t: scale yesno
+q: Social media refers to internet/mobile phone sites such as Facebook, YouTube, Twitter, Instagram, as well as to blogs.<br><br>
+During the past year, have you ...
+- regularly found that you can't think of anything else but the moment that you will be able to use social media again?
+- regularly felt dissatisfied because you wanted to spend more time on social media?
+- often felt bad when you could not use social media?
+- tried to spend less time on social media, but failed?
+- regularly neglected other activities (e.g. hobbies, sport) because you wanted to use social media?
+- regularly had arguments with others because of your social media use?
+- regularly lied to your parents or friends about the amount of time you spend on social media?
+- often used social media to escape from negative feelings?
+- had serious conflict with your parents, brother(s) or sister(s) because of your social media use?
+
+l: smd9score
+t: set
+- sum $smd9
+
+l: feedback
+t: info
+q: Your Social Media Disorder Scale score is {$smd9score}<br>
+A score of 5 or higher indicates the formal diagnosis of a disordered social media user.<br>
+Note that this website is not a medical/mental health service.<br>
+If you are concerned, please talk to someone at your school, university, work, etc.<br>
+Click the link below to get back to the explanatory PsyToolkit website.

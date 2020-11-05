@@ -1,0 +1,58 @@
+scale: howoften
+- Very Rarely or Never
+- Rarely
+- Sometimes
+- Often
+- Very Often or Always
+
+l: spane
+o: width 40%
+t: scale howoften
+q: Please think about what you have been doing and experiencing during the past four weeks. Then report how much you experienced each of the following feelings, using the scale below.
+- Positive
+- Negative
+- Good
+- Bad
+- Pleasant
+- Unpleasant
+- Happy
+- Sad
+- Afraid
+- Joyful
+- Angry
+- Contented
+
+l: SPANE_P
+t: set
+- sum $spane.1 $spane.3 $spane.5 $spane.7 $spane.10 $spane.12
+
+l: SPANE_N
+t: set
+- sum $spane.2 $spane.4 $spane.6 $spane.8 $spane.9 $spane.11
+
+l: SPANE_B
+t: set
+- calc $SPANE_P - $SPANE_N
+
+l: feedback
+t: info
+q: The measure can be used to derive an overall affect balance score, but
+can also be divided into positive and negative feelings
+scales.<BR><BR>Positive Feelings (SPANE-P): Add the scores, varying
+from 1 to 5, for the six items: positive, good, pleasant, happy,
+joyful, and contented. The score can vary from 6 (lowest possible) to
+30 (highest positive feelings score). Midpoint is thus 18. Your score is
+{$SPANE_P}.<BR><BR>
+Negative Feelings (SPANE-N): Add the scores,
+varying from 1 to 5, for the six items: negative, bad, unpleasant,
+sad, afraid, and angry. The score can vary from 6 (lowest possible) to
+30 (highest negative feelings score). Midpoint is thus 18. Your score is
+{$SPANE_N}.<BR><BR>
+Affect Balance (SPANE-B): The negative feelings
+score is subtracted from the positive feelings score, and the
+resultant difference score can vary from -24 (unhappiest possible) to
+24 (highest affect balance possible).<br><br>
+A respondent with a very high score of 24 reports that she or he
+rarely or never experiences any of the negative feelings, and very
+often or always has all of the positive feelings. Your score is
+{$SPANE_B}<BR><BR>

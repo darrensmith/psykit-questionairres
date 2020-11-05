@@ -1,0 +1,17 @@
+Introduction
+============
+
+Irritability is state of mind in which people get more easily frustrated, annoyed, and angry than normally. Most people will have been irritable at some point in their life. Irritability is a side effect of many medical conditions. It also has been reported to occur following caffeine (the stimulant in coffee and tea) or nicotine (the stimulant in tabacco) withdrawal.
+
+Read 7 tips on how to reduce irritability in this Psychology Today article.
+Canadian researchers (Holtzman et al., 2015) have developed a 5-item questionnaire to measure irritability reliably. Each item is measured on a six point scale.
+
+The Holtzman paper is a good paper to learn more about scale construction.
+In the study, 887 students (around 20 years old) and 229 patients (around 57 years old) with chronic pain were studied. The average BITe score in the whole sample was 2.6 points. In the student sample it was lower (2.51 points) than in the patient group (2.92). For details of these numbers, see The page 111 of the paper.
+
+
+
+References
+==========
+
+Holtzman, S., O’Connor, B.P., Barata, P.C., and Stewart, D.E. (2015). The Brief Irritability Test (BITe): A Measure of Irritability for Use Among Men and Women. Assessment, 22, 101-115. Read it for free via the US National Library of Medicine.

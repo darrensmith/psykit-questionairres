@@ -1,0 +1,46 @@
+scale: agree
+- strongly<br>disagree
+- .
+- .
+- neutral
+- .
+- .
+- strongly<br>agree
+
+l: erq
+t: scale agree
+o: width 50%
+q: We would like to ask you some questions about your emotional life, in particular,<br>
+how you control (that is, regulate and manage) your emotions.<br>
+The questions below involve two distinct aspects of your emotional life<br>
+One is your emotional experience, or what you feel like inside.<br>
+The other is your emotional expression, or how you show your
+ emotions in the way you talk, gesture, or behave.<br>
+Although some of the following questions may seem similar to one
+ another, they differ in important ways.<br>For each item, please
+ answer to what degree you agree with each statement.
+- When I want to feel more positive emotion (such as joy or amusement), I change what I’m thinking about.
+- I keep my emotions to myself.
+- When I want to feel less negative emotion (such as sadness or anger), I change what I’m thinking about.
+- When I am feeling positive emotions, I am careful not to express them.
+- When I’m faced with a stressful situation, I make myself think about it in a way that helps me stay calm.
+- I control my emotions by not expressing them.
+- When I want to feel more positive emotion, I change the way I’m thinking about the situation.
+- I control my emotions by changing the way I think about the situation I’m in.
+- When I am feeling negative emotions, I make sure not to express them.
+- When I want to feel less negative emotion, I change the way I’m thinking about the situation.
+
+l: cogapp
+t: set
+- mean $erq.1 $erq.3 $erq.5 $erq.7 $erq.8 $erq.10
+
+l: expsup
+t: set
+- mean $erq.2 $erq.4 $erq.6 $erq.9
+
+l: feedback
+t: info
+q: This scale taps into two strategies of emotional regulation:<br>
+1. Cognitive appraisal. Your score (on a range of 1-7): {$cogapp}<br>
+2. Expressive suppression. Your score (on a range of 1-7): {$expsup}<br>
+<br>Write down your scores and compare them to the group averages on the main website.

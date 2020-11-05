@@ -1,0 +1,17 @@
+Introduction
+============
+
+Procrastination is the postponing of more important activities for less important ones.
+
+The Procrastinatory Cognitions Inventory (PCI) thoughts associated with procrastination. The higher one scores on the PCI, the more mostly negative thoughts associated with procrastinations occur, such as "Why can’t I just get started?".
+
+The PCI has 18 items, each scored between 0 (not at all) and 4 (all the time), thus the summed score on this scale runs from 0 to 72. Students in the study by Stainton et al. (2000) scored on average around 29 points.
+
+The second author is the creator of the original procrastination trait scale, which is also available in this PsyToolkit library.
+
+
+
+References
+==========
+
+Stainton, M., Lay, C. H., & Flett, G. L. (2000). Trait procrastinators and behavior/trait-specific cognitions. Journal of social behavior and personality, 15, 297-312.

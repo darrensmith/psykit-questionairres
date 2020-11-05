@@ -1,0 +1,26 @@
+Introduction
+============
+
+Humans are "social animals" and typically do not like to be on their own too much. People like to hang out and connect with other people. People that lack that connection are called lonely.
+
+More formally, loneliness can be defined as "the exceedingly unpleasant and driving experience connected with inadequate discharge of need for human intimacy" (Sulivan, 1953, p.290). For a more recent review, see Ernst & Cacioppo, 1999.
+
+How to deal with loneliness. https://www.youtube.com/watch?v=xvIZjGEBvI8Watch video by psychologist John Cacioppo on YouTube].
+Interesting video about loneliness by the psychologist John Cacioppo on YouTube. Click here to watch.
+An interesting point that Cacioppo in the video makes is that loneliness functions as a "pain signal". Social connections are so important for our survival, that we have an internal social loneliness signal that tells us that something is wrong with us that we need to do something about.
+
+The University of the Philipines Loneliness Assessment Scale (Tharayil, 2012) is one of the newest instruments to measure loneliness. It has 25 Likert items. Its special advantage over other scales is that has been tested on people in many countries (i.e., it is cross-culturally valid).
+
+The average normative score among married and non-married people is 44. Note that the score can range from 25 (low) to 100 (high).
+
+
+
+
+References
+==========
+
+Tharayil, D.P. (2012). Developing the University of the Philippines Loneliness Assessment Scale: A Cross-Cultural Measurement. Social Indicators Research, 106 (2), 307-321.
+
+Sullivan, H. S. (1953). The interpersonal theory of psychiatry. New York: WW. Norton. (definition on p.260, as cited in Tharayil).
+
+Ernst, J.M. & Cacippo, J.T. (1999). Lonely hearts: Psychological perspectives on loneliness. Applied & Preventative Psychology, 8 (1), 1-22.

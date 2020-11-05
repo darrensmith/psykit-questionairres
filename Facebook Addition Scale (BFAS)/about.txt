@@ -1,0 +1,18 @@
+Introduction
+============
+
+Facebook addiction is a specific form of Internet addiction in which a person is addicted to checking Facebook. Anyone travelling on public transportation can observe this phenomenon.
+
+See also the PsyToolkit implementation of the Problematic Internet Use Questionnaire.
+The Bergen Facebook Addiction Scale is a very short questionnaire which can help to find out if you suffer from this. The scale was developed with a student sample at the University of Bergen in Norway.
+
+Internet article about the FBAS
+According to the paper, there are two possible ways of determining whether someone is suffering from signs of Facebook addiction:
+Liberal judgement: Someone with at least 4 out of the 6 items scored as "sometimes (3)" or more often.
+Conservative judgement: Someone with all 6 out of the 6 items scored as "sometimes (3)" or more often.
+
+
+References
+==========
+
+Andreassen, C.S., Torsheim, T., Brunborg, G.S., & Pallesen, S. (2010). Development of a Facebook addiction scale. Psychological Reports, 110, 2, 501-517.

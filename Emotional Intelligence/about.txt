@@ -1,0 +1,24 @@
+Introduction
+============
+
+Emotional Intelligence is a concept that every psychology student has to have heard of as part of their course on Intelligence and Personality. In short, emotional intelligence refers to the ability to use one’s perception of their own and other’s intelligence for decision making.
+
+Daniel Goleman is a well known researcher of emotional intelligence. Watch a good video here in which he explains what emotional intelligence is
+There is an academic debate about whether emotional intelligence is part of intelligence (as a cognitive ability) or part of personality. One of the problems is that Emotional Intelligence is entirely based on self-report, which can be very unreliable. For example, even when people say they are aware of non-verbal messages, they might actually miss most of them. People might also be biased thinking better of themselves than they really are.
+The concept of Emotional Intelligence is popular in the business and leadership world. The idea is that good or successful leaders are able to "read" people’s emotions.
+
+The PsyToolkit implementation below is based on the 33-item scale taken from the paper by Schutte and colleagues (1998). It should take at most a couple of minutes to fill in.
+
+It is interesting that there are clear between-group differences (p.173):
+
+Women score significantly higher than men
+
+On a scale from 33 to 165, women’s average score was 131 and men’s 125
+
+Therapists score higher than prisoners and clients in a substance abuse program.
+
+
+References
+==========
+
+Schutte, N. S., Malouff, J. M., Hall, L. E., Haggerty, D. J., Cooper, J. T., Golden, C. J., & Dornheim, L. (1998). Development and validation of a measure of emotional intelligence. Personality and Individual Differences, 25, 167–177.

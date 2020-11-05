@@ -1,0 +1,59 @@
+scale: agree
+- strongly disagree
+- disagree
+- neither disagree nor agree
+- agree
+- strongly agree
+
+l: EM_1
+t: scale agree
+q: Indicate the extent to which each item applies to you using the following scale
+- I know when to speak about my personal problems to others.
+- When I am faced with obstacles, I remember times I faced similar obstacles and overcame them.
+- I expect that I will do well on most things I try.
+- Other people find it easy to confide in me.
+- {reverse} I find it hard to understand the nonverbal messages of other people.
+- Some of the major events of my life have led me to re-evaluate what is important and not important.
+- When my mood changes, I see new possibilities.
+- Emotions are some of the things that make my life worth living.
+- I am aware of my emotions as I experience them.
+- I expect good things to happen.
+- I like to share my emotions with others.
+- When I experience a positive emotion, I know how to make it last.
+- I arrange events others enjoy.
+- I seek out activities that make me happy.
+- I am aware of the nonverbal messages I send to others.
+- I present myself in a way that makes a good impression on others.
+- When I am in a positive mood, solving problems is easy for me.
+- By looking at their facial expressions, I recognize the emotions people are experiencing.
+- I know why my emotions change.
+- When I am in a positive mood, I am able to come up with new ideas.
+- I have control over my emotions.
+- I easily recognize my emotions as I experience them.
+- I motivate myself by imagining a good outcome to tasks I take on.
+- I compliment others when they have done something well.
+- I am aware of the nonverbal messages other people send.
+- When another person tells me about an important event in his or her life, I almost feel as though I have experienced this event myself.
+- When I feel a change in emotions, I tend to come up with new ideas.
+- {reverse} When I am faced with a challenge, I give up because I believe I will fail.
+- I know what other people are feeling just by looking at them.
+- I help other people feel better when they are down.
+- I use good moods to help myself keep trying in the face of obstacles.
+- I can tell how people are feeling by listening to the tone of their voice.
+- {reverse} It is difficult for me to understand why people feel the way they do.
+
+l: score
+t: set
+- sum $EM_1
+
+l: feedback
+t: info
+q: The emotional intelligence score ranges from 33 to 165 points.<br>
+<b>Your score is {$score}.</b><br>
+According to the Schutte et. al (1998) paper, these are population scores in the USA:<br>
+<ul>
+<li>Average score of female prisoners = 120
+<li>Average score of men = 125
+<li>Average score of women = 131
+<li>Average score of therapists = 135
+</ul>

@@ -1,0 +1,27 @@
+scale: frequency
+- {score=0} very rarely
+- {score=0} rarely
+- {score=1} sometimes
+- {score=1} often
+- {score=1} very often
+
+l: fbas
+q: How often during the last year have you ...
+o: random
+o: width 50%
+t: scale frequency
+- spent a lot of time thinking about Facebook or planned use of Facebook?
+- felt an urge to use Facebook more and more?
+- used Facebook in order to forget about personal problems?
+- tried to cut down on the use of Facebook without success?
+- become restless or troubled if you have been prohibited from using Facebook?
+- used Facebook so much that it has had a negative impact on your job/studies?
+
+l: score
+t: set
+- sum $fbas
+
+l: feedback
+t: info
+q: You have {$score} items answered as "sometimes", "often", or "very often".<br><br>
+A score between 4 and 6 can hint towards Facebook addiction.

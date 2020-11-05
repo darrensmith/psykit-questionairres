@@ -1,0 +1,44 @@
+scale: characteristic
+- extremely uncharacteristic
+- moderately uncharacteristic
+- neutral
+- moderately characteristic
+- extremely characteristic
+
+l: procrastination
+t: scale characteristic
+o: random
+o: width 40%
+q: People may use the following statements to describe themselves. For
+each statement, decide whether the statement is uncharacteristic or
+characteristic of you using the following 5 point scale. Note that the
+3 on the scale is Neutral - the statement is neither characteristic
+nor uncharacteristic of you.
+- I often find myself performing tasks that I had intended to do days before.
+- I do not do assignments until just before they are to be handed in.
+- {reverse} When I am finished with a library book, I return it right away regardless of the date it is due.
+- {reverse} When it is time to get up in the morning, I most often get right out of bed.
+- A letter may sit for days after I write it before mailing it.
+- {reverse} I generally return phone calls promptly.
+- Even with jobs that require little else except sitting down and doing them, I find they seldom get done for days.
+- {reverse} I usually make decisions as soon as possible.
+- I generally delay before starting on work I have to do.
+- I usually have to rush to complete a task on time.
+- {reverse} When preparing to go out, I am seldom caught having to do something at the last minute.
+- In preparing for some deadline, I often waste time by doing other things.
+- {reverse} I prefer to leave early for an appointment.
+- {reverse} I usually start an assignment shortly after it is assigned.
+- {reverse} I often have a task finished sooner than necessary.
+- I always seem to end up shopping for birthday or Christmas gifts at the last minute.
+- I usually buy even an essential item at the last minute.
+- {reverse} I usually accomplish all the things I plan to do in a day.
+- I am continually saying "I'll do it tomorrow".
+- {reverse} I usually take care of all the tasks I have to do before I settle down and relax for the evening.
+
+l: score
+t: set
+- sum $procrastination
+
+l: feedback
+t: info
+q: Your procrastination score is {$score}.

@@ -1,0 +1,19 @@
+Introduction
+============
+
+The SMD is a short and simple scale to diagnose a disorder in social media use.
+
+An article about the SMD on the popular psychology website Psychology Today
+Social Media includes any website where messages are posted for a group of people. This includes Facebook, Twitter, YouTube, Instagram, and the many other social media websites there are.
+
+The SMD consists of 9 yes/no questions about feelings about social media.
+
+According to the paper by van der Eijnden and colleagues, if you answer 5 or more of the questions with yes, you have a social media disorder.
+
+In the study by van der Eijnden and colleagues with more than a 1000 adolescents (aged 10-17 years old) in The Netherlands, it was found that between 7% and 12% met the criteria of social media disorder.
+
+
+References
+==========
+
+van der Eijnden, R.J.J.M, Lemmens, J.S., & Valkenburg, P.M. (2016). The Social Media Disorder Scale. Computers in Human Behavior, 61, 478-487.

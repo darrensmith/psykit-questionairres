@@ -1,0 +1,26 @@
+scale: howoften
+- Never
+- Rarely
+- Sometimes
+- Often
+- Very often
+- Always
+
+l: bite
+t: scale howoften
+o: width 40%
+q: Please indicate how often you have felt or behaved in the following ways, <b>during the past two weeks, including today</b>.
+- I have been grumpy
+- I have been feeling like I might snap
+- Other people have been getting on my nerves
+- Things have been bothering me more than they normally do
+- I have been feeling irritable
+
+l: bite_score
+t: set
+- mean $bite
+
+l: feedback
+t: info
+q: Your BITe score is {$bite_score} points (on a scale from 1 to 6).<br>
+The student population average is around 2.5 points.

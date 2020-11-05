@@ -1,0 +1,48 @@
+scale: frequency
+- Rarely
+- Occasionally
+- Often
+- Most of the time
+
+scale: ease
+- Easy
+- Challenging
+- Difficult
+- Very Difficult
+
+l: screen1
+t: scale frequency
+q: For each question, select how often the following applies to you.
+- {score=3/6/9/12} Do you confuse visually similar words such as cat and cot?
+- {score=2/4/6/8} Do you lose your place or miss out lines when reading?
+- {score=1/2/3/4} Do you confuse the names of objects, for example table for chair?
+- {score=1/2/3/4} Do you have trouble telling left from right?
+- {score=1/2/3/4} Is map reading or finding your way to a strange place confusing?
+  {score=1/2/3/4} Do you re-read paragraphs to understand them?
+- {score=1/2/3/4} Do you get confused when given several instructions at once?
+- {score=1/2/3/4} Do you make mistakes when taking down telephone messages?
+- {score=1/2/3/4} Do you find it difficult to find the right word to say?
+- {score=1/2/3/4} How often do you think of creative solutions to problems?
+
+l: screen2
+t: scale ease
+q: For each question, select how easy or difficult you find the following.
+- {score=3/6/9/12} How easy do you find it to sound out words such as e-le-phant?
+- {score=2/4/6/8} When writing, do you find it difficult to organise thoughts on paper?
+- {score=2/4/6/8} Did you learn your multiplication tables easily?
+- {score=1/2/3/4} How easy do you find it to recite the alphabet?
+- {score=1/2/3/4} How hard do you find it to read aloud?
+
+l: dyslexiascore
+t: set
+- sum $screen1 $screen2
+
+l: feedback
+t: info
+q: Your dyslexia score is {$dyslexiascore}.<br>
+<ul>
+<li>Score less than 45: probably non-dyslexic
+<li>Score 45 to 60: showing signs consistent with mild dyslexia
+<li>Score greater than 60: signs consistent with moderate or severe dyslexia
+</ul><br>
+In case you are concerned about dyslexia, please find out more on the website of the <a href="http://www.bdadyslexia.org.uk/">British Dyslexia Association</a>

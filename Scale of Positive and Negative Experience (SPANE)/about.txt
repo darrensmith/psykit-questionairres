@@ -1,0 +1,20 @@
+Introduction
+============
+
+There are many different ways to describe how you feel. Surely, you will know if your feelings are positive or nagative. This is considered an important dimention, and there are various scales to measure this. One is the well know Positive and Negative Affect Schedule (PANAS).
+
+See also the PANAS.
+One of the advantages of SPANE over PANAS is that SPANE focuses on feelings, whereas PANAS also includes other states (which are not really feelings). Read the paper to get a complete overview of the advantages. Another advantage is that the SPANE is shorter than PANAS (even though PANAS is not too long either).
+
+Table 1. Average scores of 573 university students as cited in Diener et al., 2009.
+Scale name		Average score
+SPANE positive  22.1
+SPANE Negative  15.6
+SPANE Balance   6.5
+
+
+
+References
+==========
+
+Diener, E., Wirtz, D., Tov, W., Kim-Prieto, C., Choi. D., Oishi, S., & Biswas-Diener, R. (2009). New measures of well-being: Flourishing and positive and negative feelings. Social Indicators Research, 39, 247-266. Online available here.

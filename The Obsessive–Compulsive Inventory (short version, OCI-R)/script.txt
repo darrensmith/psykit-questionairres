@@ -1,0 +1,44 @@
+scale: howmuch
+- {score=0} Not at all
+- {score=1} A little
+- {score=2} Moderately
+- {score=3} A lot
+- {score=4} Extremely
+
+l: oci
+t: scale howmuch
+o: width 50%
+q: The following statements refer to experiences that many people have in their everyday lives.<br>
+Select the option that best describes<br><b>HOW MUCH that experience has DISTRESSED or BOTHERED you
+during the PAST MONTH.</b><br>
+- I have saved up so many things that they get in the way.
+- I check things more often than necessary.
+- I get upset if objects are not arranged properly.
+- I feel compelled to count while I am doing things.
+- I find it difficult to touch an object when I know it has been touched by strangers or certain people.
+- I find it difficult to control my own thoughts.
+- I collect things I don’t need.
+- I repeatedly check doors, windows, drawers, etc.
+- I get upset if others change the way I have arranged things.
+- I feel I have to repeat certain numbers.
+- I sometimes have to wash or clean myself simply because I feel contaminated.
+- I am upset by unpleasant thoughts that come into my mind against my will.
+- I avoid throwing things away because I am afraid I might need them later.
+- I repeatedly check gas and water taps and light switches after turning them off.
+- I need things to be arranged in a particular way.
+- I feel that there are good and bad numbers.
+- I wash my hands more often and longer than necessary.
+- I frequently get nasty thoughts and have difficulty in getting rid of them
+
+l: oci_score
+t: set
+- sum $oci
+
+l: feedback
+t: info
+q: Your score on the Obsessiveness self-report scale is {$oci_score} points.<br>
+The total range on the score lies between 0 and 72 points.<br>
+According to the study of Foa and colleagues (Psychological Assessment, 2002),<br>
+scores of 21 and higher might indicate obsessive compulsiveness.<br>
+Note that this test should not be taken as a replacement of professional advice.<br>
+In case of any concern, please see your health care specialist.<br>

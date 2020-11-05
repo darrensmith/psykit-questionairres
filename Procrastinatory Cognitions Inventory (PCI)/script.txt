@@ -1,0 +1,46 @@
+scale: freq
+- {score=0} not at all
+- {score=1} sometimes
+- {score=2} moderately often
+- {score=3} often
+- {score=4} all of the time
+
+
+l: pci
+t: scale freq
+o: random
+o: width 50%
+q: Listed below are a variety of thoughts that sometimes pop into
+ people's heads. Please read each thought and indicate how
+ frequently, if at all, you think the thought has occurred to you <b>over
+ the past two weeks.</b>
+- Why can’t I do what I should be doing.
+- I need to start earlier.
+- I should be more responsible.
+- I should be doing more studying.
+- No matter how much I try, I still put things off.
+- People expect me to work and study more.
+- Why can’t I just get started.
+- I know I’m behind but I can catch up.
+- I’m behind in my studies this time, but next time it will be different.
+- I’m letting myself down.
+- This is not how I want to be.
+- It would be great if everything in my life were done on time.
+- I’m such a procrastinator, I’ll never reach my goals.
+- I need deadlines to get me going.
+- I can turn it in late.
+- I really don’t like studying.
+- Why can’t I finish things that I start.
+- Why didn’t I start earlier.
+
+l: score
+t: set
+- sum $pci
+
+l: feedback
+t: info
+q: Your score on the PCI is {$score}.<br>
+The scale has a possible score from 0 to 72.<br>
+The average score among students is around 29 points.<br>
+You can read more about the scale via the link presented when you
+click continue.

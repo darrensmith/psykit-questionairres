@@ -1,0 +1,33 @@
+Introduction
+============
+
+Emotion is a core component of human psychology, and is strongly related to physiological responses as well (video about this here).
+
+Humans do not only experience emotions, but we can also manage them; this ability is called emotional regulation. A daily life example is getting angry at something, then realizing that the angry response is not appropriate and trying to change the emotion.
+
+Interview with Professor Gross, one of the top researchers in the study of emotional regulation. Watch video.
+The degree to which people vary in how they regulate their emotions can be measured with the Emotion Regulation Questionnaire. The paper this appeared in (Gross & John, 2003) is highly cited.
+
+This is a 10 item scale which taps into two emotion regulation strategies, namely
+
+Cognitive reappraisal (of emotions)
+
+Expressive suppression (of emotions)
+
+The scoring takes the average of all the scores (i.e., the score lies between 1 and 7). The table below shows the averages of 1483 undergraduate students around 20 years of age.
+
+Score on								Men		Women
+Cognitive reappraisal					4.60	4.61
+Expressive suppression					3.64	3.14
+
+Men suppress emotions more than women.
+
+
+
+
+References
+==========
+
+Gross, J.J., & John, O.P. (2003). Individual differences in two emotion regulation processes: Implications for affect, relationships, and well-being. Journal of Personality and Social Psychology, 85, 348-362.
+
+The website of Professor Gross with translations of the test in many languages and other resources.
